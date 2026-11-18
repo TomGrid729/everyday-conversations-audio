@@ -18,8 +18,6 @@ function updateSelection() {
     ? `場面 ${s.part} / ${l.segments.length} · ${s.subtitle} · ${durationLabel(s.duration_seconds)}${l.segments.length === 1 ? "（この課は1場面です）" : ""}`
     : `${mode.value === "all" ? "この課から順に連続再生" : "この課の会話を最初から再生"} · ${durationLabel(l.duration_seconds)}`;
   const params = new URLSearchParams({lesson: l.lesson_id, scene: s.spread_id, mode: mode.value});
-  $("permalink").href = `?${params}`;
-  $("permalink").textContent = isScene ? "この場面のリンク" : "この再生範囲のリンク";
   history.replaceState(null, "", `?${params}`);
   $("direct").href = selected.stream_url;
   $("download").href = l.download_url;
