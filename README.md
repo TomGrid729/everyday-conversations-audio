@@ -1,5 +1,17 @@
 # Everyday Conversations — Audio
 
+## Web player 2.0
+
+[Open the audio player](https://tomgrid729.github.io/everyday-conversations-audio/).
+The player streams same-origin MP3 files from GitHub Pages, with the correct audio MIME type and byte-range responses. GitHub Releases remains the source for full-lesson downloads and ZIP archives.
+
+- **This scene:** plays a separate scene file from its beginning to its end. For lessons with one scene, this uses the full-lesson file.
+- **Whole lesson:** plays the original full-lesson MP3.
+- **Continue through lessons:** loads one lesson at a time and advances after it ends. If the device blocks automatic playback, tap Play again.
+
+The scene files were cut from the existing lossless Clear masters; no speech was regenerated and no dialogue was changed. The 100 full-lesson playback files are byte-identical to Clear 0.2.0. The player has 150 scene selections backed by 100 lesson files and 100 additional scene files. Only the selected track is loaded.
+
+
 Clear audio for all 100 lessons, revised for Draft 0.3.
 
 [Open the audio player](https://TomGrid729.github.io/everyday-conversations-audio/) to play a scene, a lesson, or all lessons in sequence.

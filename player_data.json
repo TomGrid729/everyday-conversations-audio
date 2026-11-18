@@ -1,4 +1,5 @@
 {
+  "schema_version": 2,
   "edition": "Draft 0.3 / Clear 0.2.0",
   "release_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/tag/clear-v0.2.0",
   "lessons": [
@@ -12,13 +13,17 @@
       "size_bytes": 639869,
       "sha256": "7ecf3b3d07e17346db87a1710a3c23ef2dac33925fe7d465a728410074055044",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L001.mp3",
+      "stream_url": "audio/clear-v0.2.0/L001.mp3",
       "segments": [
         {
           "spread_id": "L001-S01",
           "part": 1,
           "subtitle": "Start and end a short conversation",
           "start_seconds": 0.196042,
-          "end_seconds": 39.43975
+          "end_seconds": 39.43975,
+          "stream_url": "audio/clear-v0.2.0/L001.mp3",
+          "duration_seconds": 39.864,
+          "turn_count": 16
         }
       ]
     },
@@ -32,13 +37,17 @@
       "size_bytes": 662570,
       "sha256": "e558a69c19690df2295e69df6915f210bcdb9cb564923ca95ed390e1c9135e1c",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L002.mp3",
+      "stream_url": "audio/clear-v0.2.0/L002.mp3",
       "segments": [
         {
           "spread_id": "L002-S01",
           "part": 1,
           "subtitle": "Introduce yourself and learn a name",
           "start_seconds": 0.196042,
-          "end_seconds": 40.861375
+          "end_seconds": 40.861375,
+          "stream_url": "audio/clear-v0.2.0/L002.mp3",
+          "duration_seconds": 41.28,
+          "turn_count": 16
         }
       ]
     },
@@ -52,13 +61,17 @@
       "size_bytes": 696015,
       "sha256": "3d18e8fac91e2b53fbb1a87219352109e317903fa6007783028cdcd08c09e5af",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L003.mp3",
+      "stream_url": "audio/clear-v0.2.0/L003.mp3",
       "segments": [
         {
           "spread_id": "L003-S01",
           "part": 1,
           "subtitle": "Talk about home and languages",
           "start_seconds": 0.196042,
-          "end_seconds": 42.947958
+          "end_seconds": 42.947958,
+          "stream_url": "audio/clear-v0.2.0/L003.mp3",
+          "duration_seconds": 43.368,
+          "turn_count": 16
         }
       ]
     },
@@ -72,13 +85,17 @@
       "size_bytes": 656416,
       "sha256": "48ba34b764f741c90ba735bab03a8be536e03c26b32a62135c927e5aada72de5",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L004.mp3",
+      "stream_url": "audio/clear-v0.2.0/L004.mp3",
       "segments": [
         {
           "spread_id": "L004-S01",
           "part": 1,
           "subtitle": "Ask about everyday work",
           "start_seconds": 0.196042,
-          "end_seconds": 40.4845
+          "end_seconds": 40.4845,
+          "stream_url": "audio/clear-v0.2.0/L004.mp3",
+          "duration_seconds": 40.896,
+          "turn_count": 16
         }
       ]
     },
@@ -92,13 +109,17 @@
       "size_bytes": 737921,
       "sha256": "3fc09974b7e5950cf3a3baa44517642d323bfdb0cbb46e9e40ad392a92bd7590",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L005.mp3",
+      "stream_url": "audio/clear-v0.2.0/L005.mp3",
       "segments": [
         {
           "spread_id": "L005-S01",
           "part": 1,
           "subtitle": "Share a little about your life",
           "start_seconds": 0.196042,
-          "end_seconds": 45.567792
+          "end_seconds": 45.567792,
+          "stream_url": "audio/clear-v0.2.0/L005.mp3",
+          "duration_seconds": 45.984,
+          "turn_count": 16
         }
       ]
     },
@@ -112,13 +133,17 @@
       "size_bytes": 619901,
       "sha256": "590fa2906ded1bfc07908980eac1d6ecb8930b3997733ff9ff6cd695de1a9964",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L006.mp3",
+      "stream_url": "audio/clear-v0.2.0/L006.mp3",
       "segments": [
         {
           "spread_id": "L006-S01",
           "part": 1,
           "subtitle": "Ask for help and work together",
           "start_seconds": 0.196042,
-          "end_seconds": 38.204292
+          "end_seconds": 38.204292,
+          "stream_url": "audio/clear-v0.2.0/L006.mp3",
+          "duration_seconds": 38.616,
+          "turn_count": 16
         }
       ]
     },
@@ -132,13 +157,17 @@
       "size_bytes": 694862,
       "sha256": "77c3452f46bb6fa0d6a2ed5bdb3073b173b0669a80ea848f899085c1e17d50a1",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L007.mp3",
+      "stream_url": "audio/clear-v0.2.0/L007.mp3",
       "segments": [
         {
           "spread_id": "L007-S01",
           "part": 1,
           "subtitle": "Ask again and check the message",
           "start_seconds": 0.196042,
-          "end_seconds": 42.88625
+          "end_seconds": 42.88625,
+          "stream_url": "audio/clear-v0.2.0/L007.mp3",
+          "duration_seconds": 43.296,
+          "turn_count": 16
         }
       ]
     },
@@ -152,13 +181,17 @@
       "size_bytes": 634886,
       "sha256": "d8094f9c68c9e3dd60f4c279d8934f491faf7faeaa39c3f1cfd3aa0e3368806f",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L008.mp3",
+      "stream_url": "audio/clear-v0.2.0/L008.mp3",
       "segments": [
         {
           "spread_id": "L008-S01",
           "part": 1,
           "subtitle": "Name an object and find what you need",
           "start_seconds": 0.196042,
-          "end_seconds": 39.140458
+          "end_seconds": 39.140458,
+          "stream_url": "audio/clear-v0.2.0/L008.mp3",
+          "duration_seconds": 39.552,
+          "turn_count": 16
         }
       ]
     },
@@ -172,13 +205,17 @@
       "size_bytes": 704466,
       "sha256": "48234a7540896a97e68a8758d94bad42183253ed181fc431d3f904ad50837684",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L009.mp3",
+      "stream_url": "audio/clear-v0.2.0/L009.mp3",
       "segments": [
         {
           "spread_id": "L009-S01",
           "part": 1,
           "subtitle": "Check the time and a date",
           "start_seconds": 0.196042,
-          "end_seconds": 43.472292
+          "end_seconds": 43.472292,
+          "stream_url": "audio/clear-v0.2.0/L009.mp3",
+          "duration_seconds": 43.896,
+          "turn_count": 16
         }
       ]
     },
@@ -192,13 +229,17 @@
       "size_bytes": 670256,
       "sha256": "f962221fefb593fb5f487596163576f8a25e83dbb3c939e18f7e8b19ca6fd98e",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L010.mp3",
+      "stream_url": "audio/clear-v0.2.0/L010.mp3",
       "segments": [
         {
           "spread_id": "L010-S01",
           "part": 1,
           "subtitle": "Check a price and make a purchase",
           "start_seconds": 0.196042,
-          "end_seconds": 41.356625
+          "end_seconds": 41.356625,
+          "stream_url": "audio/clear-v0.2.0/L010.mp3",
+          "duration_seconds": 41.76,
+          "turn_count": 16
         }
       ]
     },
@@ -212,13 +253,17 @@
       "size_bytes": 748294,
       "sha256": "4e2d4e8fdc986ec1e54d507dbeb06435c8bd5ec1d6b7d59920e4a0527d4c4c34",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L011.mp3",
+      "stream_url": "audio/clear-v0.2.0/L011.mp3",
       "segments": [
         {
           "spread_id": "L011-S01",
           "part": 1,
           "subtitle": "Order, choose, and pay",
           "start_seconds": 0.196042,
-          "end_seconds": 46.223458
+          "end_seconds": 46.223458,
+          "stream_url": "audio/clear-v0.2.0/L011.mp3",
+          "duration_seconds": 46.632,
+          "turn_count": 16
         }
       ]
     },
@@ -232,13 +277,17 @@
       "size_bytes": 792886,
       "sha256": "62159e173bd49019471cba6eb90c27d4c3b2c996949bb0db067e71cd9a89da1b",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L012.mp3",
+      "stream_url": "audio/clear-v0.2.0/L012.mp3",
       "segments": [
         {
           "spread_id": "L012-S01",
           "part": 1,
           "subtitle": "Find a place and check the route",
           "start_seconds": 0.196042,
-          "end_seconds": 48.993542
+          "end_seconds": 48.993542,
+          "stream_url": "audio/clear-v0.2.0/L012.mp3",
+          "duration_seconds": 49.416,
+          "turn_count": 14
         }
       ]
     },
@@ -252,20 +301,27 @@
       "size_bytes": 1754607,
       "sha256": "caa1c36f44a6e5e4a7bc17b88ee3638d2387590a295316584f0a5f72e0bb3b9f",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L013.mp3",
+      "stream_url": "audio/clear-v0.2.0/L013.mp3",
       "segments": [
         {
           "spread_id": "L013-S01",
           "part": 1,
           "subtitle": "Find something you both enjoy",
           "start_seconds": 0.196042,
-          "end_seconds": 53.036875
+          "end_seconds": 53.036875,
+          "stream_url": "audio/clear-v0.2.0/L013-S01.mp3",
+          "duration_seconds": 52.896,
+          "turn_count": 14
         },
         {
           "spread_id": "L013-S02",
           "part": 2,
           "subtitle": "Talk about hobbies without a list",
           "start_seconds": 53.836875,
-          "end_seconds": 109.054125
+          "end_seconds": 109.054125,
+          "stream_url": "audio/clear-v0.2.0/L013-S02.mp3",
+          "duration_seconds": 55.272,
+          "turn_count": 14
         }
       ]
     },
@@ -279,20 +335,27 @@
       "size_bytes": 1683508,
       "sha256": "48563455ef78761ffd3966eae07ef2492b063be66e51e81613c153d0ac4aa62d",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L014.mp3",
+      "stream_url": "audio/clear-v0.2.0/L014.mp3",
       "segments": [
         {
           "spread_id": "L014-S01",
           "part": 1,
           "subtitle": "Describe a normal weekday",
           "start_seconds": 0.196042,
-          "end_seconds": 54.077833
+          "end_seconds": 54.077833,
+          "stream_url": "audio/clear-v0.2.0/L014-S01.mp3",
+          "duration_seconds": 53.952,
+          "turn_count": 14
         },
         {
           "spread_id": "L014-S02",
           "part": 2,
           "subtitle": "Describe what changes at the weekend",
           "start_seconds": 54.877833,
-          "end_seconds": 104.615417
+          "end_seconds": 104.615417,
+          "stream_url": "audio/clear-v0.2.0/L014-S02.mp3",
+          "duration_seconds": 49.8,
+          "turn_count": 14
         }
       ]
     },
@@ -306,20 +369,27 @@
       "size_bytes": 1638527,
       "sha256": "eccdf5b602b15a00c094f5535ed3112a87d7c6c20e5adc0d4cc8087bf72a6b9b",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L015.mp3",
+      "stream_url": "audio/clear-v0.2.0/L015.mp3",
       "segments": [
         {
           "spread_id": "L015-S01",
           "part": 1,
           "subtitle": "Make a plan that works for both people",
           "start_seconds": 0.196042,
-          "end_seconds": 48.09725
+          "end_seconds": 48.09725,
+          "stream_url": "audio/clear-v0.2.0/L015-S01.mp3",
+          "duration_seconds": 47.952,
+          "turn_count": 14
         },
         {
           "spread_id": "L015-S02",
           "part": 2,
           "subtitle": "Change one part and confirm the rest",
           "start_seconds": 48.89725,
-          "end_seconds": 101.809292
+          "end_seconds": 101.809292,
+          "stream_url": "audio/clear-v0.2.0/L015-S02.mp3",
+          "duration_seconds": 52.968,
+          "turn_count": 14
         }
       ]
     },
@@ -333,13 +403,17 @@
       "size_bytes": 894740,
       "sha256": "a7f572ac7acf4c52e85b74fc387f68bd50d9ee67d4331b7b761f5025bd489190",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L016.mp3",
+      "stream_url": "audio/clear-v0.2.0/L016.mp3",
       "segments": [
         {
           "spread_id": "L016-S01",
           "part": 1,
           "subtitle": "Back home after work",
           "start_seconds": 0.196042,
-          "end_seconds": 55.360208
+          "end_seconds": 55.360208,
+          "stream_url": "audio/clear-v0.2.0/L016.mp3",
+          "duration_seconds": 55.776,
+          "turn_count": 14
         }
       ]
     },
@@ -353,13 +427,17 @@
       "size_bytes": 833641,
       "sha256": "6b16ed57037c0e73450cfd416a3b161b8b7b56a7c8c26aec9981819fed898ff6",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L017.mp3",
+      "stream_url": "audio/clear-v0.2.0/L017.mp3",
       "segments": [
         {
           "spread_id": "L017-S01",
           "part": 1,
           "subtitle": "The missing afternoon",
           "start_seconds": 0.196042,
-          "end_seconds": 51.553458
+          "end_seconds": 51.553458,
+          "stream_url": "audio/clear-v0.2.0/L017.mp3",
+          "duration_seconds": 51.96,
+          "turn_count": 14
         }
       ]
     },
@@ -373,13 +451,17 @@
       "size_bytes": 871683,
       "sha256": "40c2fc2e2798b92fa633cbf201f2c6dde5fe457748e975ef01de9eb362c2214b",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L018.mp3",
+      "stream_url": "audio/clear-v0.2.0/L018.mp3",
       "segments": [
         {
           "spread_id": "L018-S01",
           "part": 1,
           "subtitle": "An almost free weekend",
           "start_seconds": 0.196042,
-          "end_seconds": 53.924375
+          "end_seconds": 53.924375,
+          "stream_url": "audio/clear-v0.2.0/L018.mp3",
+          "duration_seconds": 54.336,
+          "turn_count": 14
         }
       ]
     },
@@ -393,13 +475,17 @@
       "size_bytes": 906672,
       "sha256": "16c2e2e77c5a67fe7da2db0c5cc2806a6785960db7614a6d7d72f0b78acd1a4e",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L019.mp3",
+      "stream_url": "audio/clear-v0.2.0/L019.mp3",
       "segments": [
         {
           "spread_id": "L019-S01",
           "part": 1,
           "subtitle": "A place worth another visit",
           "start_seconds": 0.196042,
-          "end_seconds": 56.104083
+          "end_seconds": 56.104083,
+          "stream_url": "audio/clear-v0.2.0/L019.mp3",
+          "duration_seconds": 56.52,
+          "turn_count": 14
         }
       ]
     },
@@ -413,13 +499,17 @@
       "size_bytes": 893589,
       "sha256": "5ecc3aa7f50ebe3a6717ab36c33647b1113c0766956b65ed8ed6f9d1c067f001",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L020.mp3",
+      "stream_url": "audio/clear-v0.2.0/L020.mp3",
       "segments": [
         {
           "spread_id": "L020-S01",
           "part": 1,
           "subtitle": "Making exercise fit",
           "start_seconds": 0.196042,
-          "end_seconds": 55.283542
+          "end_seconds": 55.283542,
+          "stream_url": "audio/clear-v0.2.0/L020.mp3",
+          "duration_seconds": 55.704,
+          "turn_count": 14
         }
       ]
     },
@@ -433,13 +523,17 @@
       "size_bytes": 906670,
       "sha256": "39f9c6af670812b616f719d96938f1c9e29d9df07e3de9761764c549f7021f77",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L021.mp3",
+      "stream_url": "audio/clear-v0.2.0/L021.mp3",
       "segments": [
         {
           "spread_id": "L021-S01",
           "part": 1,
           "subtitle": "Will the picnic happen?",
           "start_seconds": 0.196042,
-          "end_seconds": 56.104708
+          "end_seconds": 56.104708,
+          "stream_url": "audio/clear-v0.2.0/L021.mp3",
+          "duration_seconds": 56.52,
+          "turn_count": 14
         }
       ]
     },
@@ -453,13 +547,17 @@
       "size_bytes": 965471,
       "sha256": "6f0f0ff666be8c0b04ba28349f0993da6b19e4c7c5fd4a48bb1785bd6182205f",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L022.mp3",
+      "stream_url": "audio/clear-v0.2.0/L022.mp3",
       "segments": [
         {
           "spread_id": "L022-S01",
           "part": 1,
           "subtitle": "Across town by transit",
           "start_seconds": 0.196042,
-          "end_seconds": 59.768792
+          "end_seconds": 59.768792,
+          "stream_url": "audio/clear-v0.2.0/L022.mp3",
+          "duration_seconds": 60.192,
+          "turn_count": 14
         }
       ]
     },
@@ -473,13 +571,17 @@
       "size_bytes": 1004680,
       "sha256": "5cac1615f91a9aeb83d4b8327c292f541605bc1f4df9caeccd637df6cef133d7",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L023.mp3",
+      "stream_url": "audio/clear-v0.2.0/L023.mp3",
       "segments": [
         {
           "spread_id": "L023-S01",
           "part": 1,
           "subtitle": "A room for two nights",
           "start_seconds": 0.196042,
-          "end_seconds": 62.226292
+          "end_seconds": 62.226292,
+          "stream_url": "audio/clear-v0.2.0/L023.mp3",
+          "duration_seconds": 62.64,
+          "turn_count": 14
         }
       ]
     },
@@ -493,13 +595,17 @@
       "size_bytes": 973931,
       "sha256": "469dbc7cdd52ada48bad8b69dd0e36573bb5933f2b236722f2cd8b2071aafdd3",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L024.mp3",
+      "stream_url": "audio/clear-v0.2.0/L024.mp3",
       "segments": [
         {
           "spread_id": "L024-S01",
           "part": 1,
           "subtitle": "Lunch at a neighborhood restaurant",
           "start_seconds": 0.196042,
-          "end_seconds": 60.31075
+          "end_seconds": 60.31075,
+          "stream_url": "audio/clear-v0.2.0/L024.mp3",
+          "duration_seconds": 60.72,
+          "turn_count": 14
         }
       ]
     },
@@ -513,13 +619,17 @@
       "size_bytes": 958948,
       "sha256": "f943897226433f66a634b2df9f87dfdc1f4f7a6f14037ad90a7ac00a11e6465e",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L025.mp3",
+      "stream_url": "audio/clear-v0.2.0/L025.mp3",
       "segments": [
         {
           "spread_id": "L025-S01",
           "part": 1,
           "subtitle": "A jacket for the rain",
           "start_seconds": 0.196042,
-          "end_seconds": 59.37775
+          "end_seconds": 59.37775,
+          "stream_url": "audio/clear-v0.2.0/L025.mp3",
+          "duration_seconds": 59.784,
+          "turn_count": 14
         }
       ]
     },
@@ -533,13 +643,17 @@
       "size_bytes": 887058,
       "sha256": "0326ec854f358826aa667f63bd580bd0afdb5e45000988e00cc753b1712396ce",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L026.mp3",
+      "stream_url": "audio/clear-v0.2.0/L026.mp3",
       "segments": [
         {
           "spread_id": "L026-S01",
           "part": 1,
           "subtitle": "A quiet evening instead",
           "start_seconds": 0.196042,
-          "end_seconds": 54.873875
+          "end_seconds": 54.873875,
+          "stream_url": "audio/clear-v0.2.0/L026.mp3",
+          "duration_seconds": 55.296,
+          "turn_count": 14
         }
       ]
     },
@@ -553,13 +667,17 @@
       "size_bytes": 1018137,
       "sha256": "fd93b2586a2adbfce82509ca7c028e130feaab7cbb1937b1cf4fdc2f7c1f5d9b",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L027.mp3",
+      "stream_url": "audio/clear-v0.2.0/L027.mp3",
       "segments": [
         {
           "spread_id": "L027-S01",
           "part": 1,
           "subtitle": "Finding a good first book",
           "start_seconds": 0.196042,
-          "end_seconds": 63.074292
+          "end_seconds": 63.074292,
+          "stream_url": "audio/clear-v0.2.0/L027.mp3",
+          "duration_seconds": 63.48,
+          "turn_count": 14
         }
       ]
     },
@@ -573,13 +691,17 @@
       "size_bytes": 1052728,
       "sha256": "3d473c67e34833b95cd338d49cae2d036a74b5906930db98227fac3fc6aaa647",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L028.mp3",
+      "stream_url": "audio/clear-v0.2.0/L028.mp3",
       "segments": [
         {
           "spread_id": "L028-S01",
           "part": 1,
           "subtitle": "Two apartments, one decision",
           "start_seconds": 0.196042,
-          "end_seconds": 65.234958
+          "end_seconds": 65.234958,
+          "stream_url": "audio/clear-v0.2.0/L028.mp3",
+          "duration_seconds": 65.64,
+          "turn_count": 14
         }
       ]
     },
@@ -593,20 +715,27 @@
       "size_bytes": 1926817,
       "sha256": "d783e79b3b2e7f2a2e509a062a0c1c13d820417c6869e67670c380edf23cc27f",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L029.mp3",
+      "stream_url": "audio/clear-v0.2.0/L029.mp3",
       "segments": [
         {
           "spread_id": "L029-S01",
           "part": 1,
           "subtitle": "After the movie",
           "start_seconds": 0.196042,
-          "end_seconds": 60.589375
+          "end_seconds": 60.589375,
+          "stream_url": "audio/clear-v0.2.0/L029-S01.mp3",
+          "duration_seconds": 60.456,
+          "turn_count": 14
         },
         {
           "spread_id": "L029-S02",
           "part": 2,
           "subtitle": "A cafe that feels right",
           "start_seconds": 61.389375,
-          "end_seconds": 119.79375
+          "end_seconds": 119.79375,
+          "stream_url": "audio/clear-v0.2.0/L029-S02.mp3",
+          "duration_seconds": 58.464,
+          "turn_count": 14
         }
       ]
     },
@@ -620,20 +749,27 @@
       "size_bytes": 1928739,
       "sha256": "1a2877229fe479d8472f49ae76b7a0f1d4fa7cb4b13f4db52df1df0e60390ba3",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L030.mp3",
+      "stream_url": "audio/clear-v0.2.0/L030.mp3",
       "segments": [
         {
           "spread_id": "L030-S01",
           "part": 1,
           "subtitle": "The printer has other plans",
           "start_seconds": 0.196042,
-          "end_seconds": 63.106375
+          "end_seconds": 63.106375,
+          "stream_url": "audio/clear-v0.2.0/L030-S01.mp3",
+          "duration_seconds": 62.976,
+          "turn_count": 14
         },
         {
           "spread_id": "L030-S02",
           "part": 2,
           "subtitle": "A phone left behind",
           "start_seconds": 63.906375,
-          "end_seconds": 119.925625
+          "end_seconds": 119.925625,
+          "stream_url": "audio/clear-v0.2.0/L030-S02.mp3",
+          "duration_seconds": 56.088,
+          "turn_count": 14
         }
       ]
     },
@@ -647,20 +783,27 @@
       "size_bytes": 1837648,
       "sha256": "af482f9cb330936c45158cea8cd028ebfa17ef688574056c264f46f42d36a86f",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L031.mp3",
+      "stream_url": "audio/clear-v0.2.0/L031.mp3",
       "segments": [
         {
           "spread_id": "L031-S01",
           "part": 1,
           "subtitle": "A small favor with clear details",
           "start_seconds": 0.196042,
-          "end_seconds": 56.672833
+          "end_seconds": 56.672833,
+          "stream_url": "audio/clear-v0.2.0/L031-S01.mp3",
+          "duration_seconds": 56.544,
+          "turn_count": 14
         },
         {
           "spread_id": "L031-S02",
           "part": 2,
           "subtitle": "When the first helper cannot do it",
           "start_seconds": 57.472833,
-          "end_seconds": 114.243458
+          "end_seconds": 114.243458,
+          "stream_url": "audio/clear-v0.2.0/L031-S02.mp3",
+          "duration_seconds": 56.832,
+          "turn_count": 14
         }
       ]
     },
@@ -674,20 +817,27 @@
       "size_bytes": 1871862,
       "sha256": "e5693647f2359dec9ff07f8be2165b9bffb3020b6df1b43267863c43fe222dd8",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L032.mp3",
+      "stream_url": "audio/clear-v0.2.0/L032.mp3",
       "segments": [
         {
           "spread_id": "L032-S01",
           "part": 1,
           "subtitle": "An invitation with an easy exit",
           "start_seconds": 0.196042,
-          "end_seconds": 56.942083
+          "end_seconds": 56.942083,
+          "stream_url": "audio/clear-v0.2.0/L032-S01.mp3",
+          "duration_seconds": 56.808,
+          "turn_count": 14
         },
         {
           "spread_id": "L032-S02",
           "part": 2,
           "subtitle": "A kind refusal",
           "start_seconds": 57.742083,
-          "end_seconds": 116.367875
+          "end_seconds": 116.367875,
+          "stream_url": "audio/clear-v0.2.0/L032-S02.mp3",
+          "duration_seconds": 58.68,
+          "turn_count": 14
         }
       ]
     },
@@ -701,20 +851,27 @@
       "size_bytes": 1911436,
       "sha256": "eda7a624ab0e797e49c015a2f48bd9654b9c2ecc887e3b7cc63a79a910fdbd60",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L033.mp3",
+      "stream_url": "audio/clear-v0.2.0/L033.mp3",
       "segments": [
         {
           "spread_id": "L033-S01",
           "part": 1,
           "subtitle": "A day trip everyone can manage",
           "start_seconds": 0.196042,
-          "end_seconds": 59.563125
+          "end_seconds": 59.563125,
+          "stream_url": "audio/clear-v0.2.0/L033-S01.mp3",
+          "duration_seconds": 59.424,
+          "turn_count": 14
         },
         {
           "spread_id": "L033-S02",
           "part": 2,
           "subtitle": "The forecast changes",
           "start_seconds": 60.363125,
-          "end_seconds": 118.852083
+          "end_seconds": 118.852083,
+          "stream_url": "audio/clear-v0.2.0/L033-S02.mp3",
+          "duration_seconds": 58.56,
+          "turn_count": 14
         }
       ]
     },
@@ -728,20 +885,27 @@
       "size_bytes": 1984481,
       "sha256": "1603d97f299df520c700dfcf2efa9b0c493444dff887666b7ef6e028bd5a1446",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L034.mp3",
+      "stream_url": "audio/clear-v0.2.0/L034.mp3",
       "segments": [
         {
           "spread_id": "L034-S01",
           "part": 1,
           "subtitle": "The trip that started badly",
           "start_seconds": 0.196042,
-          "end_seconds": 60.163583
+          "end_seconds": 60.163583,
+          "stream_url": "audio/clear-v0.2.0/L034-S01.mp3",
+          "duration_seconds": 60.024,
+          "turn_count": 14
         },
         {
           "spread_id": "L034-S02",
           "part": 2,
           "subtitle": "The unexpected best part",
           "start_seconds": 60.963583,
-          "end_seconds": 123.407083
+          "end_seconds": 123.407083,
+          "stream_url": "audio/clear-v0.2.0/L034-S02.mp3",
+          "duration_seconds": 62.496,
+          "turn_count": 14
         }
       ]
     },
@@ -755,20 +919,27 @@
       "size_bytes": 1900693,
       "sha256": "53f7e6f2d2d9932c500094f1f266d37150572c0d4bbbe06e08d5e01a7f1d78c6",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L035.mp3",
+      "stream_url": "audio/clear-v0.2.0/L035.mp3",
       "segments": [
         {
           "spread_id": "L035-S01",
           "part": 1,
           "subtitle": "Keeping a new conversation going",
           "start_seconds": 0.196042,
-          "end_seconds": 58.280583
+          "end_seconds": 58.280583,
+          "stream_url": "audio/clear-v0.2.0/L035-S01.mp3",
+          "duration_seconds": 58.152,
+          "turn_count": 14
         },
         {
           "spread_id": "L035-S02",
           "part": 2,
           "subtitle": "Leaving without disappearing",
           "start_seconds": 59.080583,
-          "end_seconds": 118.159917
+          "end_seconds": 118.159917,
+          "stream_url": "audio/clear-v0.2.0/L035-S02.mp3",
+          "duration_seconds": 59.136,
+          "turn_count": 14
         }
       ]
     },
@@ -782,13 +953,17 @@
       "size_bytes": 1228387,
       "sha256": "0adcdf95804645cd16981be5904cfa1f341445823dbde9f5c82ee152f1d000ff",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L036.mp3",
+      "stream_url": "audio/clear-v0.2.0/L036.mp3",
       "segments": [
         {
           "spread_id": "L036-S01",
           "part": 1,
           "subtitle": "An unexpected reunion",
           "start_seconds": 0.196042,
-          "end_seconds": 76.191625
+          "end_seconds": 76.191625,
+          "stream_url": "audio/clear-v0.2.0/L036.mp3",
+          "duration_seconds": 76.608,
+          "turn_count": 14
         }
       ]
     },
@@ -802,13 +977,17 @@
       "size_bytes": 1324113,
       "sha256": "11b7d78a7c7c9f05e492f683d1de33067e2dc84befcfc05edf941be056097c24",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L037.mp3",
+      "stream_url": "audio/clear-v0.2.0/L037.mp3",
       "segments": [
         {
           "spread_id": "L037-S01",
           "part": 1,
           "subtitle": "A new routine, still settling",
           "start_seconds": 0.196042,
-          "end_seconds": 82.174333
+          "end_seconds": 82.174333,
+          "stream_url": "audio/clear-v0.2.0/L037.mp3",
+          "duration_seconds": 82.584,
+          "turn_count": 14
         }
       ]
     },
@@ -822,13 +1001,17 @@
       "size_bytes": 1248397,
       "sha256": "230d65e3a52584ae6adc1257e72d46adb75e2dc8beaab23d0df9d935dc188903",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L038.mp3",
+      "stream_url": "audio/clear-v0.2.0/L038.mp3",
       "segments": [
         {
           "spread_id": "L038-S01",
           "part": 1,
           "subtitle": "The wrong birthday table",
           "start_seconds": 0.196042,
-          "end_seconds": 77.433833
+          "end_seconds": 77.433833,
+          "stream_url": "audio/clear-v0.2.0/L038.mp3",
+          "duration_seconds": 77.856,
+          "turn_count": 14
         }
       ]
     },
@@ -842,13 +1025,17 @@
       "size_bytes": 1309879,
       "sha256": "fd4932fdba3192be4b2f99523a551e03b1c90783105d0ae38441ff09a5d210c5",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L039.mp3",
+      "stream_url": "audio/clear-v0.2.0/L039.mp3",
       "segments": [
         {
           "spread_id": "L039-S01",
           "part": 1,
           "subtitle": "An unusual hobby",
           "start_seconds": 0.196042,
-          "end_seconds": 81.279792
+          "end_seconds": 81.279792,
+          "stream_url": "audio/clear-v0.2.0/L039.mp3",
+          "duration_seconds": 81.696,
+          "turn_count": 14
         }
       ]
     },
@@ -862,13 +1049,17 @@
       "size_bytes": 1274898,
       "sha256": "8ad3ffaf227fa291b89ffaab253421ffba34fbf004f0c10c3200009c23c2213f",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L040.mp3",
+      "stream_url": "audio/clear-v0.2.0/L040.mp3",
       "segments": [
         {
           "spread_id": "L040-S01",
           "part": 1,
           "subtitle": "A phone-free dinner?",
           "start_seconds": 0.196042,
-          "end_seconds": 79.107708
+          "end_seconds": 79.107708,
+          "stream_url": "audio/clear-v0.2.0/L040.mp3",
+          "duration_seconds": 79.512,
+          "turn_count": 14
         }
       ]
     },
@@ -882,13 +1073,17 @@
       "size_bytes": 1294882,
       "sha256": "63b61e5b390debf7e814544d0aaede6a5aa68199fcc38fc11bf786505ffdc77c",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L041.mp3",
+      "stream_url": "audio/clear-v0.2.0/L041.mp3",
       "segments": [
         {
           "spread_id": "L041-S01",
           "part": 1,
           "subtitle": "Keeping the old sofa",
           "start_seconds": 0.196042,
-          "end_seconds": 80.356458
+          "end_seconds": 80.356458,
+          "stream_url": "audio/clear-v0.2.0/L041.mp3",
+          "duration_seconds": 80.76,
+          "turn_count": 14
         }
       ]
     },
@@ -902,13 +1097,17 @@
       "size_bytes": 1424433,
       "sha256": "45f7713b31c547b41f86210d7065a32ecf3097030e0d6b5eed4f1bb7e0173879",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L042.mp3",
+      "stream_url": "audio/clear-v0.2.0/L042.mp3",
       "segments": [
         {
           "spread_id": "L042-S01",
           "part": 1,
           "subtitle": "A surprise party, maybe",
           "start_seconds": 0.196042,
-          "end_seconds": 88.432917
+          "end_seconds": 88.432917,
+          "stream_url": "audio/clear-v0.2.0/L042.mp3",
+          "duration_seconds": 88.848,
+          "turn_count": 14
         }
       ]
     },
@@ -922,13 +1121,17 @@
       "size_bytes": 1387522,
       "sha256": "53e176c89ad07a9cedbed517ade83c8c2d31222ae502c0602ad6bad0df37065e",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L043.mp3",
+      "stream_url": "audio/clear-v0.2.0/L043.mp3",
       "segments": [
         {
           "spread_id": "L043-S01",
           "part": 1,
           "subtitle": "The wallet on the bus",
           "start_seconds": 0.196042,
-          "end_seconds": 86.122958
+          "end_seconds": 86.122958,
+          "stream_url": "audio/clear-v0.2.0/L043.mp3",
+          "duration_seconds": 86.544,
+          "turn_count": 14
         }
       ]
     },
@@ -942,13 +1145,17 @@
       "size_bytes": 1401744,
       "sha256": "cfb23dad15e478d714cd40c799d94d811c4537cbb5522f1c772bd06021ffa2a3",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L044.mp3",
+      "stream_url": "audio/clear-v0.2.0/L044.mp3",
       "segments": [
         {
           "spread_id": "L044-S01",
           "part": 1,
           "subtitle": "Too many weekend commitments",
           "start_seconds": 0.196042,
-          "end_seconds": 87.006833
+          "end_seconds": 87.006833,
+          "stream_url": "audio/clear-v0.2.0/L044.mp3",
+          "duration_seconds": 87.432,
+          "turn_count": 14
         }
       ]
     },
@@ -962,13 +1169,17 @@
       "size_bytes": 1374081,
       "sha256": "c6de1a7725cc86ce75e5fff7890e84be3671b5c2555c84f262a70c4b2922d635",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L045.mp3",
+      "stream_url": "audio/clear-v0.2.0/L045.mp3",
       "segments": [
         {
           "spread_id": "L045-S01",
           "part": 1,
           "subtitle": "Trying a beginner class",
           "start_seconds": 0.196042,
-          "end_seconds": 85.300167
+          "end_seconds": 85.300167,
+          "stream_url": "audio/clear-v0.2.0/L045.mp3",
+          "duration_seconds": 85.704,
+          "turn_count": 14
         }
       ]
     },
@@ -982,13 +1193,17 @@
       "size_bytes": 1588185,
       "sha256": "3d4ff1252646f57f7c16c11465c8264911ce97b125e2d646584488ebd62829f9",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L046.mp3",
+      "stream_url": "audio/clear-v0.2.0/L046.mp3",
       "segments": [
         {
           "spread_id": "L046-S01",
           "part": 1,
           "subtitle": "The first camping weekend",
           "start_seconds": 0.196042,
-          "end_seconds": 98.656625
+          "end_seconds": 98.656625,
+          "stream_url": "audio/clear-v0.2.0/L046.mp3",
+          "duration_seconds": 99.072,
+          "turn_count": 14
         }
       ]
     },
@@ -1002,13 +1217,17 @@
       "size_bytes": 1612002,
       "sha256": "1d6a7fdaf7775bfcc75e79441eb865835802fc81896d41a60cfb66d133930c35",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L047.mp3",
+      "stream_url": "audio/clear-v0.2.0/L047.mp3",
       "segments": [
         {
           "spread_id": "L047-S01",
           "part": 1,
           "subtitle": "The driving test tomorrow",
           "start_seconds": 0.196042,
-          "end_seconds": 100.1515
+          "end_seconds": 100.1515,
+          "stream_url": "audio/clear-v0.2.0/L047.mp3",
+          "duration_seconds": 100.56,
+          "turn_count": 14
         }
       ]
     },
@@ -1022,13 +1241,17 @@
       "size_bytes": 1450569,
       "sha256": "71cbd3f483c8c0609b24823c8a1e46050f2636f65d98366ffc2dd47b8ccf20c1",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L048.mp3",
+      "stream_url": "audio/clear-v0.2.0/L048.mp3",
       "segments": [
         {
           "spread_id": "L048-S01",
           "part": 1,
           "subtitle": "When a familiar place closes",
           "start_seconds": 0.196042,
-          "end_seconds": 90.060208
+          "end_seconds": 90.060208,
+          "stream_url": "audio/clear-v0.2.0/L048.mp3",
+          "duration_seconds": 90.48,
+          "turn_count": 14
         }
       ]
     },
@@ -1042,13 +1265,17 @@
       "size_bytes": 1401362,
       "sha256": "97c205a6e89537a37eccc9072372c39ff19cb20b49c2ec64755a60a0f505a2b5",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L049.mp3",
+      "stream_url": "audio/clear-v0.2.0/L049.mp3",
       "segments": [
         {
           "spread_id": "L049-S01",
           "part": 1,
           "subtitle": "A smell from childhood",
           "start_seconds": 0.196042,
-          "end_seconds": 86.993958
+          "end_seconds": 86.993958,
+          "stream_url": "audio/clear-v0.2.0/L049.mp3",
+          "duration_seconds": 87.408,
+          "turn_count": 14
         }
       ]
     },
@@ -1062,13 +1289,17 @@
       "size_bytes": 1418259,
       "sha256": "3808dab6d4d33089aa9e7940f540a5cf1bf2114100aad9316e0b5b0e3ab7ac12",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L050.mp3",
+      "stream_url": "audio/clear-v0.2.0/L050.mp3",
       "segments": [
         {
           "spread_id": "L050-S01",
           "part": 1,
           "subtitle": "Two topics in the hallway",
           "start_seconds": 0.196042,
-          "end_seconds": 88.04175
+          "end_seconds": 88.04175,
+          "stream_url": "audio/clear-v0.2.0/L050.mp3",
+          "duration_seconds": 88.464,
+          "turn_count": 14
         }
       ]
     },
@@ -1082,20 +1313,27 @@
       "size_bytes": 2860474,
       "sha256": "c19d550d5065b0d616a5c0f0c9e7174fe75da6a530f039555251646ecfa109e6",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L051.mp3",
+      "stream_url": "audio/clear-v0.2.0/L051.mp3",
       "segments": [
         {
           "spread_id": "L051-S01",
           "part": 1,
           "subtitle": "The amplifier in the garage",
           "start_seconds": 0.196042,
-          "end_seconds": 83.987583
+          "end_seconds": 83.987583,
+          "stream_url": "audio/clear-v0.2.0/L051-S01.mp3",
+          "duration_seconds": 83.856,
+          "turn_count": 14
         },
         {
           "spread_id": "L051-S02",
           "part": 2,
           "subtitle": "Checking the story with the group",
           "start_seconds": 84.787583,
-          "end_seconds": 178.093208
+          "end_seconds": 178.093208,
+          "stream_url": "audio/clear-v0.2.0/L051-S02.mp3",
+          "duration_seconds": 93.36,
+          "turn_count": 14
         }
       ]
     },
@@ -1109,20 +1347,27 @@
       "size_bytes": 2845869,
       "sha256": "4d7e7543c29ff012e7dbd69a0b2237013c770df2363539b3166e53aea14b043b",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L052.mp3",
+      "stream_url": "audio/clear-v0.2.0/L052.mp3",
       "segments": [
         {
           "spread_id": "L052-S01",
           "part": 1,
           "subtitle": "What counts as a light dinner?",
           "start_seconds": 0.196042,
-          "end_seconds": 87.795333
+          "end_seconds": 87.795333,
+          "stream_url": "audio/clear-v0.2.0/L052-S01.mp3",
+          "duration_seconds": 87.648,
+          "turn_count": 14
         },
         {
           "spread_id": "L052-S02",
           "part": 2,
           "subtitle": "Quiet does not mean lonely",
           "start_seconds": 88.595333,
-          "end_seconds": 177.191375
+          "end_seconds": 177.191375,
+          "stream_url": "audio/clear-v0.2.0/L052-S02.mp3",
+          "duration_seconds": 88.656,
+          "turn_count": 14
         }
       ]
     },
@@ -1136,20 +1381,27 @@
       "size_bytes": 2907395,
       "sha256": "b4eda191745a2ce913b117e268ab7b782b9ac5c932087e864522d53c97cb4dbb",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L053.mp3",
+      "stream_url": "audio/clear-v0.2.0/L053.mp3",
       "segments": [
         {
           "spread_id": "L053-S01",
           "part": 1,
           "subtitle": "What does helping at the fair involve?",
           "start_seconds": 0.196042,
-          "end_seconds": 88.473042
+          "end_seconds": 88.473042,
+          "stream_url": "audio/clear-v0.2.0/L053-S01.mp3",
+          "duration_seconds": 88.344,
+          "turn_count": 14
         },
         {
           "spread_id": "L053-S02",
           "part": 2,
           "subtitle": "The instructions need an example",
           "start_seconds": 89.273042,
-          "end_seconds": 181.025708
+          "end_seconds": 181.025708,
+          "stream_url": "audio/clear-v0.2.0/L053-S02.mp3",
+          "duration_seconds": 91.824,
+          "turn_count": 14
         }
       ]
     },
@@ -1163,20 +1415,27 @@
       "size_bytes": 3091118,
       "sha256": "37ba178e572936591593bd8bc1351b077b9265cf9e9bdfa21fb83c945d24db6d",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L054.mp3",
+      "stream_url": "audio/clear-v0.2.0/L054.mp3",
       "segments": [
         {
           "spread_id": "L054-S01",
           "part": 1,
           "subtitle": "Why take the overnight train?",
           "start_seconds": 0.196042,
-          "end_seconds": 93.605708
+          "end_seconds": 93.605708,
+          "stream_url": "audio/clear-v0.2.0/L054-S01.mp3",
+          "duration_seconds": 93.48,
+          "turn_count": 14
         },
         {
           "spread_id": "L054-S02",
           "part": 2,
           "subtitle": "Choosing the smaller museum",
           "start_seconds": 94.405708,
-          "end_seconds": 192.503625
+          "end_seconds": 192.503625,
+          "stream_url": "audio/clear-v0.2.0/L054-S02.mp3",
+          "duration_seconds": 98.16,
+          "turn_count": 14
         }
       ]
     },
@@ -1190,20 +1449,27 @@
       "size_bytes": 3122650,
       "sha256": "94317767c31999e755a40893e83d5aa16502e8d013f4322730148a7159550af4",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L055.mp3",
+      "stream_url": "audio/clear-v0.2.0/L055.mp3",
       "segments": [
         {
           "spread_id": "L055-S01",
           "part": 1,
           "subtitle": "Is working at home better?",
           "start_seconds": 0.196042,
-          "end_seconds": 98.225292
+          "end_seconds": 98.225292,
+          "stream_url": "audio/clear-v0.2.0/L055-S01.mp3",
+          "duration_seconds": 98.088,
+          "turn_count": 14
         },
         {
           "spread_id": "L055-S02",
           "part": 2,
           "subtitle": "When is it okay to drop by?",
           "start_seconds": 99.025292,
-          "end_seconds": 194.469458
+          "end_seconds": 194.469458,
+          "stream_url": "audio/clear-v0.2.0/L055-S02.mp3",
+          "duration_seconds": 95.496,
+          "turn_count": 14
         }
       ]
     },
@@ -1217,20 +1483,27 @@
       "size_bytes": 2899298,
       "sha256": "70a97588418e8b4be2c2b2475c1a9c3e260dc0298dd3fddb14a83746e4dad3f5",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L056.mp3",
+      "stream_url": "audio/clear-v0.2.0/L056.mp3",
       "segments": [
         {
           "spread_id": "L056-S01",
           "part": 1,
           "subtitle": "A change nobody wanted",
           "start_seconds": 0.196042,
-          "end_seconds": 86.587833
+          "end_seconds": 86.587833,
+          "stream_url": "audio/clear-v0.2.0/L056-S01.mp3",
+          "duration_seconds": 86.448,
+          "turn_count": 14
         },
         {
           "spread_id": "L056-S02",
           "part": 2,
           "subtitle": "Explaining the missed celebration",
           "start_seconds": 87.387833,
-          "end_seconds": 180.5325
+          "end_seconds": 180.5325,
+          "stream_url": "audio/clear-v0.2.0/L056-S02.mp3",
+          "duration_seconds": 93.216,
+          "turn_count": 14
         }
       ]
     },
@@ -1244,20 +1517,27 @@
       "size_bytes": 3129540,
       "sha256": "c29bd50c5216f50fc3875989603b8fcdea7a6aaeb96f5fbfb8760cdccecd2fa6",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L057.mp3",
+      "stream_url": "audio/clear-v0.2.0/L057.mp3",
       "segments": [
         {
           "spread_id": "L057-S01",
           "part": 1,
           "subtitle": "The photographs that never left the phone",
           "start_seconds": 0.196042,
-          "end_seconds": 97.427708
+          "end_seconds": 97.427708,
+          "stream_url": "audio/clear-v0.2.0/L057-S01.mp3",
+          "duration_seconds": 97.296,
+          "turn_count": 14
         },
         {
           "spread_id": "L057-S02",
           "part": 2,
           "subtitle": "The ticket bought too quickly",
           "start_seconds": 98.227708,
-          "end_seconds": 194.897833
+          "end_seconds": 194.897833,
+          "stream_url": "audio/clear-v0.2.0/L057-S02.mp3",
+          "duration_seconds": 96.72,
+          "turn_count": 14
         }
       ]
     },
@@ -1271,20 +1551,27 @@
       "size_bytes": 3171066,
       "sha256": "ddb770ec373c59a651e2d1a9107ccfd4dca9130af4830e7488c3fabc8442104d",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L058.mp3",
+      "stream_url": "audio/clear-v0.2.0/L058.mp3",
       "segments": [
         {
           "spread_id": "L058-S01",
           "part": 1,
           "subtitle": "Returning to the old neighborhood",
           "start_seconds": 0.196042,
-          "end_seconds": 94.467625
+          "end_seconds": 94.467625,
+          "stream_url": "audio/clear-v0.2.0/L058-S01.mp3",
+          "duration_seconds": 94.32,
+          "turn_count": 14
         },
         {
           "spread_id": "L058-S02",
           "part": 2,
           "subtitle": "The kitchen has changed too",
           "start_seconds": 95.267625,
-          "end_seconds": 197.478583
+          "end_seconds": 197.478583,
+          "stream_url": "audio/clear-v0.2.0/L058-S02.mp3",
+          "duration_seconds": 102.264,
+          "turn_count": 14
         }
       ]
     },
@@ -1298,20 +1585,27 @@
       "size_bytes": 3155326,
       "sha256": "42e87534eb1ff37f5cb29cf3d9666648e96fc249d82b00989f4bed9d7673dec7",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L059.mp3",
+      "stream_url": "audio/clear-v0.2.0/L059.mp3",
       "segments": [
         {
           "spread_id": "L059-S01",
           "part": 1,
           "subtitle": "The shared garden is drying out",
           "start_seconds": 0.196042,
-          "end_seconds": 97.308167
+          "end_seconds": 97.308167,
+          "stream_url": "audio/clear-v0.2.0/L059-S01.mp3",
+          "duration_seconds": 97.176,
+          "turn_count": 14
         },
         {
           "spread_id": "L059-S02",
           "part": 2,
           "subtitle": "A plan for absences",
           "start_seconds": 98.108167,
-          "end_seconds": 196.505583
+          "end_seconds": 196.505583,
+          "stream_url": "audio/clear-v0.2.0/L059-S02.mp3",
+          "duration_seconds": 98.448,
+          "turn_count": 14
         }
       ]
     },
@@ -1325,20 +1619,27 @@
       "size_bytes": 3066137,
       "sha256": "1c95f3467ce0f9eab39d726ea94735dcc10bd152f85a8152ab593464a4beb307",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L060.mp3",
+      "stream_url": "audio/clear-v0.2.0/L060.mp3",
       "segments": [
         {
           "spread_id": "L060-S01",
           "part": 1,
           "subtitle": "Practice time and quiet time",
           "start_seconds": 0.196042,
-          "end_seconds": 97.235708
+          "end_seconds": 97.235708,
+          "stream_url": "audio/clear-v0.2.0/L060-S01.mp3",
+          "duration_seconds": 97.104,
+          "turn_count": 14
         },
         {
           "spread_id": "L060-S02",
           "part": 2,
           "subtitle": "Two tastes, one living room",
           "start_seconds": 98.035708,
-          "end_seconds": 190.947917
+          "end_seconds": 190.947917,
+          "stream_url": "audio/clear-v0.2.0/L060-S02.mp3",
+          "duration_seconds": 92.976,
+          "turn_count": 14
         }
       ]
     },
@@ -1352,20 +1653,27 @@
       "size_bytes": 3049609,
       "sha256": "9627e5822ecb32e38aaed3b51fe6d9ee6833371ca1db8e641bb2183de78590d5",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L061.mp3",
+      "stream_url": "audio/clear-v0.2.0/L061.mp3",
       "segments": [
         {
           "spread_id": "L061-S01",
           "part": 1,
           "subtitle": "The suitcase surprise",
           "start_seconds": 0.196042,
-          "end_seconds": 91.104792
+          "end_seconds": 91.104792,
+          "stream_url": "audio/clear-v0.2.0/L061-S01.mp3",
+          "duration_seconds": 90.96,
+          "turn_count": 14
         },
         {
           "spread_id": "L061-S02",
           "part": 2,
           "subtitle": "An unexpected invitation",
           "start_seconds": 91.904792,
-          "end_seconds": 189.898833
+          "end_seconds": 189.898833,
+          "stream_url": "audio/clear-v0.2.0/L061-S02.mp3",
+          "duration_seconds": 98.064,
+          "turn_count": 14
         }
       ]
     },
@@ -1379,20 +1687,27 @@
       "size_bytes": 3392866,
       "sha256": "8bff1107918558d5b41d785ab0aa6f6cc6693f677aae212dd961c4dbc1ede438",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L062.mp3",
+      "stream_url": "audio/clear-v0.2.0/L062.mp3",
       "segments": [
         {
           "spread_id": "L062-S01",
           "part": 1,
           "subtitle": "The bookshelf that looks new",
           "start_seconds": 0.196042,
-          "end_seconds": 100.627125
+          "end_seconds": 100.627125,
+          "stream_url": "audio/clear-v0.2.0/L062-S01.mp3",
+          "duration_seconds": 100.488,
+          "turn_count": 14
         },
         {
           "spread_id": "L062-S02",
           "part": 2,
           "subtitle": "A family reunion without chaos",
           "start_seconds": 101.427125,
-          "end_seconds": 211.326583
+          "end_seconds": 211.326583,
+          "stream_url": "audio/clear-v0.2.0/L062-S02.mp3",
+          "duration_seconds": 109.968,
+          "turn_count": 14
         }
       ]
     },
@@ -1406,20 +1721,27 @@
       "size_bytes": 3117272,
       "sha256": "816d8739dc0fbd6731c352bb28fc269acad047cd08edd8e8adc0d4907e2bea98",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L063.mp3",
+      "stream_url": "audio/clear-v0.2.0/L063.mp3",
       "segments": [
         {
           "spread_id": "L063-S01",
           "part": 1,
           "subtitle": "A comment that sounded harsher than intended",
           "start_seconds": 0.196042,
-          "end_seconds": 92.280042
+          "end_seconds": 92.280042,
+          "stream_url": "audio/clear-v0.2.0/L063-S01.mp3",
+          "duration_seconds": 92.136,
+          "turn_count": 14
         },
         {
           "spread_id": "L063-S02",
           "part": 2,
           "subtitle": "Not help less, ask first",
           "start_seconds": 93.080042,
-          "end_seconds": 194.123708
+          "end_seconds": 194.123708,
+          "stream_url": "audio/clear-v0.2.0/L063-S02.mp3",
+          "duration_seconds": 101.112,
+          "turn_count": 14
         }
       ]
     },
@@ -1433,20 +1755,27 @@
       "size_bytes": 3046914,
       "sha256": "01662bf5fb9274d66a16a5694f7931422c5c33757abb9f338f61f744e5d657fe",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L064.mp3",
+      "stream_url": "audio/clear-v0.2.0/L064.mp3",
       "segments": [
         {
           "spread_id": "L064-S01",
           "part": 1,
           "subtitle": "A weekend course with a deadline",
           "start_seconds": 0.196042,
-          "end_seconds": 96.317958
+          "end_seconds": 96.317958,
+          "stream_url": "audio/clear-v0.2.0/L064-S01.mp3",
+          "duration_seconds": 96.192,
+          "turn_count": 14
         },
         {
           "spread_id": "L064-S02",
           "part": 2,
           "subtitle": "The answer after thinking it through",
           "start_seconds": 97.117958,
-          "end_seconds": 189.728208
+          "end_seconds": 189.728208,
+          "stream_url": "audio/clear-v0.2.0/L064-S02.mp3",
+          "duration_seconds": 92.664,
+          "turn_count": 14
         }
       ]
     },
@@ -1460,20 +1789,27 @@
       "size_bytes": 3198746,
       "sha256": "ff5b5b9b31f3720a98bd6ee0145a4b483d0fd4fdd581bf5f63ca7355aff2a50d",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L065.mp3",
+      "stream_url": "audio/clear-v0.2.0/L065.mp3",
       "segments": [
         {
           "spread_id": "L065-S01",
           "part": 1,
           "subtitle": "Thinking about adopting a cat",
           "start_seconds": 0.196042,
-          "end_seconds": 99.26625
+          "end_seconds": 99.26625,
+          "stream_url": "audio/clear-v0.2.0/L065-S01.mp3",
+          "duration_seconds": 99.12,
+          "turn_count": 14
         },
         {
           "spread_id": "L065-S02",
           "part": 2,
           "subtitle": "Reaching a decision together",
           "start_seconds": 100.06625,
-          "end_seconds": 199.22625
+          "end_seconds": 199.22625,
+          "stream_url": "audio/clear-v0.2.0/L065-S02.mp3",
+          "duration_seconds": 99.216,
+          "turn_count": 14
         }
       ]
     },
@@ -1487,13 +1823,17 @@
       "size_bytes": 1839558,
       "sha256": "8b88f38501496b06d01592827beeb32aa5efe94b44dd3bbb62295daf59cb2204",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L066.mp3",
+      "stream_url": "audio/clear-v0.2.0/L066.mp3",
       "segments": [
         {
           "spread_id": "L066-S01",
           "part": 1,
           "subtitle": "An invitation after a long week",
           "start_seconds": 0.196042,
-          "end_seconds": 114.35625
+          "end_seconds": 114.35625,
+          "stream_url": "audio/clear-v0.2.0/L066.mp3",
+          "duration_seconds": 114.768,
+          "turn_count": 14
         }
       ]
     },
@@ -1507,13 +1847,17 @@
       "size_bytes": 1631594,
       "sha256": "497aeba5a3bf4559287129fed2abc1ea73a8a2c781a88d054731012e42cbfa5a",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L067.mp3",
+      "stream_url": "audio/clear-v0.2.0/L067.mp3",
       "segments": [
         {
           "spread_id": "L067-S01",
           "part": 1,
           "subtitle": "A window, a bag, and a polite request",
           "start_seconds": 0.196042,
-          "end_seconds": 101.362542
+          "end_seconds": 101.362542,
+          "stream_url": "audio/clear-v0.2.0/L067.mp3",
+          "duration_seconds": 101.784,
+          "turn_count": 14
         }
       ]
     },
@@ -1527,13 +1871,17 @@
       "size_bytes": 1642767,
       "sha256": "3a00b475cd5ef5c0ed1a226fd56ea65160a17a3b6e58606b1a0af35bba7341f4",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L068.mp3",
+      "stream_url": "audio/clear-v0.2.0/L068.mp3",
       "segments": [
         {
           "spread_id": "L068-S01",
           "part": 1,
           "subtitle": "The clicking pen",
           "start_seconds": 0.196042,
-          "end_seconds": 102.073708
+          "end_seconds": 102.073708,
+          "stream_url": "audio/clear-v0.2.0/L068.mp3",
+          "duration_seconds": 102.48,
+          "turn_count": 14
         }
       ]
     },
@@ -1547,13 +1895,17 @@
       "size_bytes": 1782665,
       "sha256": "cd268b9e1ce1c11cc1a284521caeb0cc5803bed2e718a1ddf08fdd1699490b02",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L069.mp3",
+      "stream_url": "audio/clear-v0.2.0/L069.mp3",
       "segments": [
         {
           "spread_id": "L069-S01",
           "part": 1,
           "subtitle": "A joke that needs checking",
           "start_seconds": 0.196042,
-          "end_seconds": 110.806667
+          "end_seconds": 110.806667,
+          "stream_url": "audio/clear-v0.2.0/L069.mp3",
+          "duration_seconds": 111.216,
+          "turn_count": 14
         }
       ]
     },
@@ -1567,13 +1919,17 @@
       "size_bytes": 1656591,
       "sha256": "3b39cce638cc34dae16bef2afb76554d761f17d7dcd49057e670a9c40d239fb5",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L070.mp3",
+      "stream_url": "audio/clear-v0.2.0/L070.mp3",
       "segments": [
         {
           "spread_id": "L070-S01",
           "part": 1,
           "subtitle": "An enthusiastic maybe",
           "start_seconds": 0.196042,
-          "end_seconds": 102.929583
+          "end_seconds": 102.929583,
+          "stream_url": "audio/clear-v0.2.0/L070.mp3",
+          "duration_seconds": 103.344,
+          "turn_count": 14
         }
       ]
     },
@@ -1587,13 +1943,17 @@
       "size_bytes": 1772687,
       "sha256": "2d1226306889164a7cb1c7d6de521c9a1de1501277aff69152128ad403e71b52",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L071.mp3",
+      "stream_url": "audio/clear-v0.2.0/L071.mp3",
       "segments": [
         {
           "spread_id": "L071-S01",
           "part": 1,
           "subtitle": "Three calendars and one celebration",
           "start_seconds": 0.196042,
-          "end_seconds": 110.1705
+          "end_seconds": 110.1705,
+          "stream_url": "audio/clear-v0.2.0/L071.mp3",
+          "duration_seconds": 110.592,
+          "turn_count": 17
         }
       ]
     },
@@ -1607,13 +1967,17 @@
       "size_bytes": 1655049,
       "sha256": "66fe2ecbe11bcb3d38ab5fa8c3014ca3948ff2f52cd1fd84413168ab33fda45c",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L072.mp3",
+      "stream_url": "audio/clear-v0.2.0/L072.mp3",
       "segments": [
         {
           "spread_id": "L072-S01",
           "part": 1,
           "subtitle": "Joining the plan halfway through",
           "start_seconds": 0.196042,
-          "end_seconds": 102.822417
+          "end_seconds": 102.822417,
+          "stream_url": "audio/clear-v0.2.0/L072.mp3",
+          "duration_seconds": 103.248,
+          "turn_count": 17
         }
       ]
     },
@@ -1627,13 +1991,17 @@
       "size_bytes": 1769586,
       "sha256": "23c1c9bb88df1a60e66f07bdfd066a7b741b345966f05ff46ca1ffcba3210bdd",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L073.mp3",
+      "stream_url": "audio/clear-v0.2.0/L073.mp3",
       "segments": [
         {
           "spread_id": "L073-S01",
           "part": 1,
           "subtitle": "A rumor about the neighborhood pool",
           "start_seconds": 0.196042,
-          "end_seconds": 109.998042
+          "end_seconds": 109.998042,
+          "stream_url": "audio/clear-v0.2.0/L073.mp3",
+          "duration_seconds": 110.4,
+          "turn_count": 14
         }
       ]
     },
@@ -1647,13 +2015,17 @@
       "size_bytes": 1887998,
       "sha256": "6da8b7bf29f41c21bdc36a116247805003eea42b1206a94a1422075b1920666d",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L074.mp3",
+      "stream_url": "audio/clear-v0.2.0/L074.mp3",
       "segments": [
         {
           "spread_id": "L074-S01",
           "part": 1,
           "subtitle": "Back to the holiday plan",
           "start_seconds": 0.196042,
-          "end_seconds": 117.377875
+          "end_seconds": 117.377875,
+          "stream_url": "audio/clear-v0.2.0/L074.mp3",
+          "duration_seconds": 117.792,
+          "turn_count": 14
         }
       ]
     },
@@ -1667,13 +2039,17 @@
       "size_bytes": 1799199,
       "sha256": "c19c5ecfdd79ab262f177be823504bf576edd88e0a5604dcfc49da93b50ca06a",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L075.mp3",
+      "stream_url": "audio/clear-v0.2.0/L075.mp3",
       "segments": [
         {
           "spread_id": "L075-S01",
           "part": 1,
           "subtitle": "Which person are we talking about?",
           "start_seconds": 0.196042,
-          "end_seconds": 111.827292
+          "end_seconds": 111.827292,
+          "stream_url": "audio/clear-v0.2.0/L075.mp3",
+          "duration_seconds": 112.248,
+          "turn_count": 14
         }
       ]
     },
@@ -1687,20 +2063,27 @@
       "size_bytes": 2394604,
       "sha256": "ef779f064ce198ebedfb9c6e57ebf4449dd82e0f33f24e47faa618e53ec81056",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L076.mp3",
+      "stream_url": "audio/clear-v0.2.0/L076.mp3",
       "segments": [
         {
           "spread_id": "L076-S01",
           "part": 1,
           "subtitle": "Say what bothered you",
           "start_seconds": 0.196042,
-          "end_seconds": 73.232583
+          "end_seconds": 73.232583,
+          "stream_url": "audio/clear-v0.2.0/L076-S01.mp3",
+          "duration_seconds": 73.104,
+          "turn_count": 14
         },
         {
           "spread_id": "L076-S02",
           "part": 2,
           "subtitle": "Find a way forward",
           "start_seconds": 74.032583,
-          "end_seconds": 149.002542
+          "end_seconds": 149.002542,
+          "stream_url": "audio/clear-v0.2.0/L076-S02.mp3",
+          "duration_seconds": 75.024,
+          "turn_count": 15
         }
       ]
     },
@@ -1714,20 +2097,27 @@
       "size_bytes": 3598509,
       "sha256": "879a291c6542ae804e4c35e7df90762bd728e8bf3d6cf8b807e2f634c88019bc",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L077.mp3",
+      "stream_url": "audio/clear-v0.2.0/L077.mp3",
       "segments": [
         {
           "spread_id": "L077-S01",
           "part": 1,
           "subtitle": "The car with an empty tank",
           "start_seconds": 0.196042,
-          "end_seconds": 109.420958
+          "end_seconds": 109.420958,
+          "stream_url": "audio/clear-v0.2.0/L077-S01.mp3",
+          "duration_seconds": 109.296,
+          "turn_count": 14
         },
         {
           "spread_id": "L077-S02",
           "part": 2,
           "subtitle": "A workable agreement",
           "start_seconds": 110.220958,
-          "end_seconds": 224.188417
+          "end_seconds": 224.188417,
+          "stream_url": "audio/clear-v0.2.0/L077-S02.mp3",
+          "duration_seconds": 114.024,
+          "turn_count": 14
         }
       ]
     },
@@ -1741,20 +2131,27 @@
       "size_bytes": 3454751,
       "sha256": "257882f791f05f8940c58e9d994ff72cacb03dd860d0ecae6f8bbda05ad07d33",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L078.mp3",
+      "stream_url": "audio/clear-v0.2.0/L078.mp3",
       "segments": [
         {
           "spread_id": "L078-S01",
           "part": 1,
           "subtitle": "Two accounts of a broken vase",
           "start_seconds": 0.196042,
-          "end_seconds": 107.477417
+          "end_seconds": 107.477417,
+          "stream_url": "audio/clear-v0.2.0/L078-S01.mp3",
+          "duration_seconds": 107.352,
+          "turn_count": 14
         },
         {
           "spread_id": "L078-S02",
           "part": 2,
           "subtitle": "A third perspective",
           "start_seconds": 108.277417,
-          "end_seconds": 215.193958
+          "end_seconds": 215.193958,
+          "stream_url": "audio/clear-v0.2.0/L078-S02.mp3",
+          "duration_seconds": 106.968,
+          "turn_count": 16
         }
       ]
     },
@@ -1768,20 +2165,27 @@
       "size_bytes": 3360954,
       "sha256": "ea7d79efbaee07190466d7f2d2d3d07913c2662728c0dba296b10180f8b1b54c",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L079.mp3",
+      "stream_url": "audio/clear-v0.2.0/L079.mp3",
       "segments": [
         {
           "spread_id": "L079-S01",
           "part": 1,
           "subtitle": "News shared with the wrong person first",
           "start_seconds": 0.196042,
-          "end_seconds": 101.867875
+          "end_seconds": 101.867875,
+          "stream_url": "audio/clear-v0.2.0/L079-S01.mp3",
+          "duration_seconds": 101.736,
+          "turn_count": 14
         },
         {
           "spread_id": "L079-S02",
           "part": 2,
           "subtitle": "The message that should have been sent",
           "start_seconds": 102.667875,
-          "end_seconds": 209.344958
+          "end_seconds": 209.344958,
+          "stream_url": "audio/clear-v0.2.0/L079-S02.mp3",
+          "duration_seconds": 106.728,
+          "turn_count": 14
         }
       ]
     },
@@ -1795,20 +2199,27 @@
       "size_bytes": 3792217,
       "sha256": "aa07b7ce08775742eca9ad0479952fc55709889eadc335673c8a73f1f112dc7d",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L080.mp3",
+      "stream_url": "audio/clear-v0.2.0/L080.mp3",
       "segments": [
         {
           "spread_id": "L080-S01",
           "part": 1,
           "subtitle": "Checking after a disagreement",
           "start_seconds": 0.196042,
-          "end_seconds": 116.47
+          "end_seconds": 116.47,
+          "stream_url": "audio/clear-v0.2.0/L080-S01.mp3",
+          "duration_seconds": 116.328,
+          "turn_count": 14
         },
         {
           "spread_id": "L080-S02",
           "part": 2,
           "subtitle": "A calmer conversation a week later",
           "start_seconds": 117.27,
-          "end_seconds": 236.263417
+          "end_seconds": 236.263417,
+          "stream_url": "audio/clear-v0.2.0/L080-S02.mp3",
+          "duration_seconds": 119.064,
+          "turn_count": 14
         }
       ]
     },
@@ -1822,20 +2233,27 @@
       "size_bytes": 3608117,
       "sha256": "5abcc2a198c2cbbe3d63eb6f6dc0a6396fa24c4865caba5baff4c7671fac026f",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L081.mp3",
+      "stream_url": "audio/clear-v0.2.0/L081.mp3",
       "segments": [
         {
           "spread_id": "L081-S01",
           "part": 1,
           "subtitle": "The voice on the radio",
           "start_seconds": 0.196042,
-          "end_seconds": 114.690917
+          "end_seconds": 114.690917,
+          "stream_url": "audio/clear-v0.2.0/L081-S01.mp3",
+          "duration_seconds": 114.552,
+          "turn_count": 14
         },
         {
           "spread_id": "L081-S02",
           "part": 2,
           "subtitle": "A familiar face in an old photograph",
           "start_seconds": 115.490917,
-          "end_seconds": 224.78525
+          "end_seconds": 224.78525,
+          "stream_url": "audio/clear-v0.2.0/L081-S02.mp3",
+          "duration_seconds": 109.344,
+          "turn_count": 14
         }
       ]
     },
@@ -1849,20 +2267,27 @@
       "size_bytes": 3743798,
       "sha256": "a2bc75d0a87078339cbb7e38a98068bcfaa6425089f295ead5480229720bedee",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L082.mp3",
+      "stream_url": "audio/clear-v0.2.0/L082.mp3",
       "segments": [
         {
           "spread_id": "L082-S01",
           "part": 1,
           "subtitle": "The queue that grew in the telling",
           "start_seconds": 0.196042,
-          "end_seconds": 120.181875
+          "end_seconds": 120.181875,
+          "stream_url": "audio/clear-v0.2.0/L082-S01.mp3",
+          "duration_seconds": 120.048,
+          "turn_count": 14
         },
         {
           "spread_id": "L082-S02",
           "part": 2,
           "subtitle": "The allegedly impossible hike",
           "start_seconds": 120.981875,
-          "end_seconds": 233.238375
+          "end_seconds": 233.238375,
+          "stream_url": "audio/clear-v0.2.0/L082-S02.mp3",
+          "duration_seconds": 112.32,
+          "turn_count": 14
         }
       ]
     },
@@ -1876,20 +2301,27 @@
       "size_bytes": 3387456,
       "sha256": "fbd81482b5458adc07634c46928ee68a9d5bd0f81850d65d63c7a06382605cca",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L083.mp3",
+      "stream_url": "audio/clear-v0.2.0/L083.mp3",
       "segments": [
         {
           "spread_id": "L083-S01",
           "part": 1,
           "subtitle": "The apron with a slogan",
           "start_seconds": 0.196042,
-          "end_seconds": 110.217417
+          "end_seconds": 110.217417,
+          "stream_url": "audio/clear-v0.2.0/L083-S01.mp3",
+          "duration_seconds": 110.088,
+          "turn_count": 14
         },
         {
           "spread_id": "L083-S02",
           "part": 2,
           "subtitle": "When the joke is not welcome",
           "start_seconds": 111.017417,
-          "end_seconds": 210.994333
+          "end_seconds": 210.994333,
+          "stream_url": "audio/clear-v0.2.0/L083-S02.mp3",
+          "duration_seconds": 100.032,
+          "turn_count": 14
         }
       ]
     },
@@ -1903,20 +2335,27 @@
       "size_bytes": 3719968,
       "sha256": "9beacaa56fb13556128e3e21b2f50202dd9966cb084a744c7f546ab3e151a392",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L084.mp3",
+      "stream_url": "audio/clear-v0.2.0/L084.mp3",
       "segments": [
         {
           "spread_id": "L084-S01",
           "part": 1,
           "subtitle": "The shelf that did not stay up",
           "start_seconds": 0.196042,
-          "end_seconds": 114.097458
+          "end_seconds": 114.097458,
+          "stream_url": "audio/clear-v0.2.0/L084-S01.mp3",
+          "duration_seconds": 113.952,
+          "turn_count": 14
         },
         {
           "spread_id": "L084-S02",
           "part": 2,
           "subtitle": "A compliment that really is a compliment",
           "start_seconds": 114.897458,
-          "end_seconds": 231.750292
+          "end_seconds": 231.750292,
+          "stream_url": "audio/clear-v0.2.0/L084-S02.mp3",
+          "duration_seconds": 116.904,
+          "turn_count": 14
         }
       ]
     },
@@ -1930,20 +2369,27 @@
       "size_bytes": 3778393,
       "sha256": "c9c56f4b9e4a0c27c6a904c136cdbaaebc7c86add60caa1e2c7e3deb54bb74cc",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L085.mp3",
+      "stream_url": "audio/clear-v0.2.0/L085.mp3",
       "segments": [
         {
           "spread_id": "L085-S01",
           "part": 1,
           "subtitle": "The compliment with an unfortunate extra word",
           "start_seconds": 0.196042,
-          "end_seconds": 115.885292
+          "end_seconds": 115.885292,
+          "stream_url": "audio/clear-v0.2.0/L085-S01.mp3",
+          "duration_seconds": 115.752,
+          "turn_count": 14
         },
         {
           "spread_id": "L085-S02",
           "part": 2,
           "subtitle": "A practical offer that sounded dismissive",
           "start_seconds": 116.685292,
-          "end_seconds": 235.416458
+          "end_seconds": 235.416458,
+          "stream_url": "audio/clear-v0.2.0/L085-S02.mp3",
+          "duration_seconds": 118.8,
+          "turn_count": 14
         }
       ]
     },
@@ -1957,20 +2403,27 @@
       "size_bytes": 3764563,
       "sha256": "33a79484adc43f20f7b76d8277772bf14a42c287cc5b6b0d8822e78d96aa34e8",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L086.mp3",
+      "stream_url": "audio/clear-v0.2.0/L086.mp3",
       "segments": [
         {
           "spread_id": "L086-S01",
           "part": 1,
           "subtitle": "The suspiciously relevant advertisement",
           "start_seconds": 0.196042,
-          "end_seconds": 123.196208
+          "end_seconds": 123.196208,
+          "stream_url": "audio/clear-v0.2.0/L086-S01.mp3",
+          "duration_seconds": 123.072,
+          "turn_count": 14
         },
         {
           "spread_id": "L086-S02",
           "part": 2,
           "subtitle": "A photo shared too widely",
           "start_seconds": 123.996208,
-          "end_seconds": 234.554167
+          "end_seconds": 234.554167,
+          "stream_url": "audio/clear-v0.2.0/L086-S02.mp3",
+          "duration_seconds": 110.616,
+          "turn_count": 14
         }
       ]
     },
@@ -1984,20 +2437,27 @@
       "size_bytes": 3731904,
       "sha256": "7a5999bea5138712a61e974d9c253c7e9d828b233ae3d8707ebf2912baadd9ff",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L087.mp3",
+      "stream_url": "audio/clear-v0.2.0/L087.mp3",
       "segments": [
         {
           "spread_id": "L087-S01",
           "part": 1,
           "subtitle": "Learning to mend things",
           "start_seconds": 0.196042,
-          "end_seconds": 118.23825
+          "end_seconds": 118.23825,
+          "stream_url": "audio/clear-v0.2.0/L087-S01.mp3",
+          "duration_seconds": 118.104,
+          "turn_count": 14
         },
         {
           "spread_id": "L087-S02",
           "part": 2,
           "subtitle": "A trial lesson changes the plan",
           "start_seconds": 119.03825,
-          "end_seconds": 232.514958
+          "end_seconds": 232.514958,
+          "stream_url": "audio/clear-v0.2.0/L087-S02.mp3",
+          "duration_seconds": 113.544,
+          "turn_count": 14
         }
       ]
     },
@@ -2011,20 +2471,27 @@
       "size_bytes": 3377873,
       "sha256": "d3788efb80cfcf6fae50b6ee96a5f5b14152b4612321de481c83249d0036bbcf",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L088.mp3",
+      "stream_url": "audio/clear-v0.2.0/L088.mp3",
       "segments": [
         {
           "spread_id": "L088-S01",
           "part": 1,
           "subtitle": "The invisible household list",
           "start_seconds": 0.196042,
-          "end_seconds": 104.624875
+          "end_seconds": 104.624875,
+          "stream_url": "audio/clear-v0.2.0/L088-S01.mp3",
+          "duration_seconds": 104.496,
+          "turn_count": 14
         },
         {
           "spread_id": "L088-S02",
           "part": 2,
           "subtitle": "Stepping back from a volunteer role",
           "start_seconds": 105.424875,
-          "end_seconds": 210.393167
+          "end_seconds": 210.393167,
+          "stream_url": "audio/clear-v0.2.0/L088-S02.mp3",
+          "duration_seconds": 105.024,
+          "turn_count": 14
         }
       ]
     },
@@ -2038,20 +2505,27 @@
       "size_bytes": 3817988,
       "sha256": "1e9af314c69c7135517849ae7a38b5aa41362e798cfa05a8a096c3c7404f9d82",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L089.mp3",
+      "stream_url": "audio/clear-v0.2.0/L089.mp3",
       "segments": [
         {
           "spread_id": "L089-S01",
           "part": 1,
           "subtitle": "What does bring a dish mean?",
           "start_seconds": 0.196042,
-          "end_seconds": 117.334667
+          "end_seconds": 117.334667,
+          "stream_url": "audio/clear-v0.2.0/L089-S01.mp3",
+          "duration_seconds": 117.192,
+          "turn_count": 14
         },
         {
           "spread_id": "L089-S02",
           "part": 2,
           "subtitle": "Shoes, gifts, and asking the host",
           "start_seconds": 118.134667,
-          "end_seconds": 237.874792
+          "end_seconds": 237.874792,
+          "stream_url": "audio/clear-v0.2.0/L089-S02.mp3",
+          "duration_seconds": 119.808,
+          "turn_count": 14
         }
       ]
     },
@@ -2065,20 +2539,27 @@
       "size_bytes": 3955598,
       "sha256": "8173e48a8c66d487cf9a6f873e1bac6c92124e3c1b6e995b68ed89fcf1f5e404",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L090.mp3",
+      "stream_url": "audio/clear-v0.2.0/L090.mp3",
       "segments": [
         {
           "spread_id": "L090-S01",
           "part": 1,
           "subtitle": "The robot vacuum in the shopping cart",
           "start_seconds": 0.196042,
-          "end_seconds": 121.073042
+          "end_seconds": 121.073042,
+          "stream_url": "audio/clear-v0.2.0/L090-S01.mp3",
+          "duration_seconds": 120.936,
+          "turn_count": 14
         },
         {
           "spread_id": "L090-S02",
           "part": 2,
           "subtitle": "The trial gives a mixed answer",
           "start_seconds": 121.873042,
-          "end_seconds": 246.468083
+          "end_seconds": 246.468083,
+          "stream_url": "audio/clear-v0.2.0/L090-S02.mp3",
+          "duration_seconds": 124.656,
+          "turn_count": 14
         }
       ]
     },
@@ -2092,20 +2573,27 @@
       "size_bytes": 4029391,
       "sha256": "389af87dd487647f7abfcea97f35af1843c620b654d6337970856449eefc45eb",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L091.mp3",
+      "stream_url": "audio/clear-v0.2.0/L091.mp3",
       "segments": [
         {
           "spread_id": "L091-S01",
           "part": 1,
           "subtitle": "Imagining a different neighborhood",
           "start_seconds": 0.196042,
-          "end_seconds": 127.00225
+          "end_seconds": 127.00225,
+          "stream_url": "audio/clear-v0.2.0/L091-S01.mp3",
+          "duration_seconds": 126.864,
+          "turn_count": 14
         },
         {
           "spread_id": "L091-S02",
           "part": 2,
           "subtitle": "After walking the neighborhood",
           "start_seconds": 127.80225,
-          "end_seconds": 251.072667
+          "end_seconds": 251.072667,
+          "stream_url": "audio/clear-v0.2.0/L091-S02.mp3",
+          "duration_seconds": 123.336,
+          "turn_count": 14
         }
       ]
     },
@@ -2119,20 +2607,27 @@
       "size_bytes": 4050541,
       "sha256": "0b70c6e09b57c511fb75d9aacd57576c58759add487a07a83d83cd6caf1cd8ce",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L092.mp3",
+      "stream_url": "audio/clear-v0.2.0/L092.mp3",
       "segments": [
         {
           "spread_id": "L092-S01",
           "part": 1,
           "subtitle": "The week with no empty space",
           "start_seconds": 0.196042,
-          "end_seconds": 128.139958
+          "end_seconds": 128.139958,
+          "stream_url": "audio/clear-v0.2.0/L092-S01.mp3",
+          "duration_seconds": 127.992,
+          "turn_count": 14
         },
         {
           "spread_id": "L092-S02",
           "part": 2,
           "subtitle": "A budget with too many priorities",
           "start_seconds": 128.939958,
-          "end_seconds": 252.399583
+          "end_seconds": 252.399583,
+          "stream_url": "audio/clear-v0.2.0/L092-S02.mp3",
+          "duration_seconds": 123.528,
+          "turn_count": 14
         }
       ]
     },
@@ -2146,20 +2641,27 @@
       "size_bytes": 3776869,
       "sha256": "6139efd5c66f1298bac72c78450dc21bab9af178ae132b8d0619975cd5cb4f7c",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L093.mp3",
+      "stream_url": "audio/clear-v0.2.0/L093.mp3",
       "segments": [
         {
           "spread_id": "L093-S01",
           "part": 1,
           "subtitle": "The tour behind the advertisement",
           "start_seconds": 0.196042,
-          "end_seconds": 114.907083
+          "end_seconds": 114.907083,
+          "stream_url": "audio/clear-v0.2.0/L093-S01.mp3",
+          "duration_seconds": 114.768,
+          "turn_count": 14
         },
         {
           "spread_id": "L093-S02",
           "part": 2,
           "subtitle": "A film with the wrong promise",
           "start_seconds": 115.707083,
-          "end_seconds": 235.307375
+          "end_seconds": 235.307375,
+          "stream_url": "audio/clear-v0.2.0/L093-S02.mp3",
+          "duration_seconds": 119.664,
+          "turn_count": 14
         }
       ]
     },
@@ -2173,20 +2675,27 @@
       "size_bytes": 3540455,
       "sha256": "44cc410688cb425f44483aa9f823aeef886959db390acabb136d2634addcd629",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L094.mp3",
+      "stream_url": "audio/clear-v0.2.0/L094.mp3",
       "segments": [
         {
           "spread_id": "L094-S01",
           "part": 1,
           "subtitle": "An evening without conversation",
           "start_seconds": 0.196042,
-          "end_seconds": 104.583583
+          "end_seconds": 104.583583,
+          "stream_url": "audio/clear-v0.2.0/L094-S01.mp3",
+          "duration_seconds": 104.448,
+          "turn_count": 14
         },
         {
           "spread_id": "L094-S02",
           "part": 2,
           "subtitle": "A boundary that needs clearer timing",
           "start_seconds": 105.383583,
-          "end_seconds": 220.559458
+          "end_seconds": 220.559458,
+          "stream_url": "audio/clear-v0.2.0/L094-S02.mp3",
+          "duration_seconds": 115.224,
+          "turn_count": 14
         }
       ]
     },
@@ -2200,20 +2709,27 @@
       "size_bytes": 3544691,
       "sha256": "5c93cc889d4c3b95311db4e535afef6dddad5ca9f7868bdd07ab46d04afad24b",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L095.mp3",
+      "stream_url": "audio/clear-v0.2.0/L095.mp3",
       "segments": [
         {
           "spread_id": "L095-S01",
           "part": 1,
           "subtitle": "The quiet room beside the elevator",
           "start_seconds": 0.196042,
-          "end_seconds": 110.646625
+          "end_seconds": 110.646625,
+          "stream_url": "audio/clear-v0.2.0/L095-S01.mp3",
+          "duration_seconds": 110.52,
+          "turn_count": 14
         },
         {
           "spread_id": "L095-S02",
           "part": 2,
           "subtitle": "A charge that does not match the agreement",
           "start_seconds": 111.446625,
-          "end_seconds": 220.828833
+          "end_seconds": 220.828833,
+          "stream_url": "audio/clear-v0.2.0/L095-S02.mp3",
+          "duration_seconds": 109.44,
+          "turn_count": 14
         }
       ]
     },
@@ -2227,20 +2743,27 @@
       "size_bytes": 3698837,
       "sha256": "aa2e2e884c57d7da7b8b41c452f40ffe226d5835a55b7d081c31cef0186a5f1a",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L096.mp3",
+      "stream_url": "audio/clear-v0.2.0/L096.mp3",
       "segments": [
         {
           "spread_id": "L096-S01",
           "part": 1,
           "subtitle": "The hesitant yes to a book club",
           "start_seconds": 0.196042,
-          "end_seconds": 116.369875
+          "end_seconds": 116.369875,
+          "stream_url": "audio/clear-v0.2.0/L096-S01.mp3",
+          "duration_seconds": 116.232,
+          "turn_count": 14
         },
         {
           "spread_id": "L096-S02",
           "part": 2,
           "subtitle": "Feedback on a wedding toast",
           "start_seconds": 117.169875,
-          "end_seconds": 230.449042
+          "end_seconds": 230.449042,
+          "stream_url": "audio/clear-v0.2.0/L096-S02.mp3",
+          "duration_seconds": 113.328,
+          "turn_count": 14
         }
       ]
     },
@@ -2254,20 +2777,27 @@
       "size_bytes": 3781852,
       "sha256": "4e3819a6202b243c86039c3a8feeae076da2528d907216e44fb5f2de14e098e9",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L097.mp3",
+      "stream_url": "audio/clear-v0.2.0/L097.mp3",
       "segments": [
         {
           "spread_id": "L097-S01",
           "part": 1,
           "subtitle": "A room with a different entrance",
           "start_seconds": 0.196042,
-          "end_seconds": 116.810125
+          "end_seconds": 116.810125,
+          "stream_url": "audio/clear-v0.2.0/L097-S01.mp3",
+          "duration_seconds": 116.664,
+          "turn_count": 14
         },
         {
           "spread_id": "L097-S02",
           "part": 2,
           "subtitle": "An offer with an unexpected schedule",
           "start_seconds": 117.610125,
-          "end_seconds": 235.633542
+          "end_seconds": 235.633542,
+          "stream_url": "audio/clear-v0.2.0/L097-S02.mp3",
+          "duration_seconds": 118.08,
+          "turn_count": 14
         }
       ]
     },
@@ -2281,20 +2811,27 @@
       "size_bytes": 3572373,
       "sha256": "2607b39a1b050305bd4101b70b84e04655e240de219f30d920d03d01d16847ac",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L098.mp3",
+      "stream_url": "audio/clear-v0.2.0/L098.mp3",
       "segments": [
         {
           "spread_id": "L098-S01",
           "part": 1,
           "subtitle": "The ferry is canceled",
           "start_seconds": 0.196042,
-          "end_seconds": 107.15575
+          "end_seconds": 107.15575,
+          "stream_url": "audio/clear-v0.2.0/L098-S01.mp3",
+          "duration_seconds": 107.016,
+          "turn_count": 14
         },
         {
           "spread_id": "L098-S02",
           "part": 2,
           "subtitle": "Cooking when the oven stops working",
           "start_seconds": 107.95575,
-          "end_seconds": 222.552708
+          "end_seconds": 222.552708,
+          "stream_url": "audio/clear-v0.2.0/L098-S02.mp3",
+          "duration_seconds": 114.648,
+          "turn_count": 14
         }
       ]
     },
@@ -2308,20 +2845,27 @@
       "size_bytes": 3687300,
       "sha256": "29a38db211317fd2a9fb58308ce6784495a6b8f5e165a67fa657476b9024a9d4",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L099.mp3",
+      "stream_url": "audio/clear-v0.2.0/L099.mp3",
       "segments": [
         {
           "spread_id": "L099-S01",
           "part": 1,
           "subtitle": "Catching up after the planning meeting",
           "start_seconds": 0.196042,
-          "end_seconds": 122.148
+          "end_seconds": 122.148,
+          "stream_url": "audio/clear-v0.2.0/L099-S01.mp3",
+          "duration_seconds": 122.016,
+          "turn_count": 14
         },
         {
           "spread_id": "L099-S02",
           "part": 2,
           "subtitle": "What happened while you were away",
           "start_seconds": 122.948,
-          "end_seconds": 229.718
+          "end_seconds": 229.718,
+          "stream_url": "audio/clear-v0.2.0/L099-S02.mp3",
+          "duration_seconds": 106.824,
+          "turn_count": 18
         }
       ]
     },
@@ -2335,20 +2879,27 @@
       "size_bytes": 3680377,
       "sha256": "0fba503d0e238691e5c9a1d2842e6f4eac838206b47ec1c0cda839d5f92a5dd6",
       "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L100.mp3",
+      "stream_url": "audio/clear-v0.2.0/L100.mp3",
       "segments": [
         {
           "spread_id": "L100-S01",
           "part": 1,
           "subtitle": "A reunion with several moving parts",
           "start_seconds": 0.196042,
-          "end_seconds": 115.953667
+          "end_seconds": 115.953667,
+          "stream_url": "audio/clear-v0.2.0/L100-S01.mp3",
+          "duration_seconds": 115.824,
+          "turn_count": 14
         },
         {
           "spread_id": "L100-S02",
           "part": 2,
           "subtitle": "After everyone finally arrives",
           "start_seconds": 116.753667,
-          "end_seconds": 229.279542
+          "end_seconds": 229.279542,
+          "stream_url": "audio/clear-v0.2.0/L100-S02.mp3",
+          "duration_seconds": 112.584,
+          "turn_count": 14
         }
       ]
     }

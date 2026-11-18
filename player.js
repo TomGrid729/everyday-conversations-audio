@@ -1,15 +1,117 @@
 "use strict";
-const $=id=>document.getElementById(id),audio=$("audio"),lesson=$("lesson"),scene=$("scene"),mode=$("mode"),status=$("status");
-let data,index=0,range=null,pendingStart=null,changing=false,stoppedAtEnd=false;
-function selectedScene(){return data.lessons[index].segments[Number(scene.value)||0]}
-function updateRange(){const g=selectedScene();range=mode.value==="scene"?{start:g.start_seconds,end:g.end_seconds}:null;$("scene-control").hidden=mode.value!=="scene";$("segment-help").textContent=range?g.subtitle:"この課の会話を最初から再生します。";$("permalink").href=`?lesson=${data.lessons[index].lesson_id}&scene=${g.spread_id}&mode=${mode.value}`;history.replaceState(null,"",$("permalink").href)}
-function loadLesson(i,sceneId=null){changing=true;audio.pause();index=Math.max(0,Math.min(data.lessons.length-1,i));const l=data.lessons[index];lesson.value=String(index);scene.replaceChildren(...l.segments.map((g,j)=>{const o=new Option(`${g.part}. ${g.subtitle}`,j);o.selected=g.spread_id===sceneId;return o}));$("title").textContent=`${l.lesson_id} · ${l.title}`;$("download").href=l.download_url;$("prev").disabled=index===0;$("next").disabled=index===data.lessons.length-1;updateRange();pendingStart=range?range.start:0;audio.src=l.download_url;audio.preload="none";stoppedAtEnd=false;status.textContent="再生ボタンを押してください。";changing=false}
-function seekPending(){if(pendingStart!==null&&Number.isFinite(audio.duration)){audio.currentTime=pendingStart;pendingStart=null}}
-async function play(){if(!data)return;if(stoppedAtEnd||audio.ended||(range&&(audio.currentTime<range.start||audio.currentTime>=range.end-.03))){pendingStart=range?range.start:0;stoppedAtEnd=false}seekPending();try{await audio.play();status.textContent=mode.value==="all"?"連続再生中 / Continuous play":"再生中 / Playing"}catch(e){status.textContent="再生ボタンを押して開始してください。再生できない場合はMP3リンクをお試しください。"}}
-audio.addEventListener("loadedmetadata",seekPending);audio.addEventListener("play",()=>{if(stoppedAtEnd){pendingStart=range?range.start:0;stoppedAtEnd=false}seekPending()});
-audio.addEventListener("timeupdate",()=>{if(!changing&&range&&audio.currentTime>=range.end){audio.pause();stoppedAtEnd=true;status.textContent="この場面の再生が終わりました。"}});
-audio.addEventListener("ended",()=>{if(mode.value==="all"&&index<data.lessons.length-1){loadLesson(index+1);play()}else status.textContent="再生が終わりました。"});
-audio.addEventListener("error",()=>{status.textContent="音源を読み込めませんでした。MP3リンクから開くか、接続をご確認ください。"});
-$("play").onclick=play;lesson.onchange=()=>loadLesson(Number(lesson.value));$("prev").onclick=()=>loadLesson(index-1);$("next").onclick=()=>loadLesson(index+1);
-function changeRange(){audio.pause();updateRange();pendingStart=range?range.start:0;seekPending();stoppedAtEnd=false;status.textContent="再生範囲を変更しました。"}scene.onchange=changeRange;mode.onchange=changeRange;
-fetch("player_data.json",{cache:"no-cache"}).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(d=>{data=d;lesson.replaceChildren(...d.lessons.map((l,i)=>new Option(`${l.lesson_id} · ${l.title}`,i)));lesson.disabled=false;$("play").disabled=false;$("edition").textContent=d.edition;const p=new URLSearchParams(location.search);if(["scene","lesson","all"].includes(p.get("mode")))mode.value=p.get("mode");loadLesson(Math.max(0,d.lessons.findIndex(l=>l.lesson_id===p.get("lesson"))),p.get("scene"))}).catch(()=>{$("title").textContent="音源一覧を読み込めませんでした。";status.textContent="下のGitHubリンクから各課をダウンロードできます。"});
+const $ = id => document.getElementById(id);
+const audio = $("audio"), lesson = $("lesson"), scene = $("scene"), mode = $("mode"), status = $("status");
+let data, index = 0, sourceVersion = 0;
+
+function currentLesson() { return data.lessons[index]; }
+function selectedScene() { return currentLesson().segments[Number(scene.value) || 0]; }
+function durationLabel(seconds) {
+  const total = Math.round(seconds);
+  return `${Math.floor(total / 60)}:${String(total % 60).padStart(2, "0")}`;
+}
+function resetButton() { $("play").textContent = "再生 / Play"; }
+function updateSelection() {
+  const l = currentLesson(), s = selectedScene(), isScene = mode.value === "scene";
+  const selected = isScene ? s : l;
+  $("scene-control").hidden = !isScene;
+  $("segment-help").textContent = isScene
+    ? `場面 ${s.part} / ${l.segments.length} · ${s.subtitle} · ${durationLabel(s.duration_seconds)}${l.segments.length === 1 ? "（この課は1場面です）" : ""}`
+    : `${mode.value === "all" ? "この課から順に連続再生" : "この課の会話を最初から再生"} · ${durationLabel(l.duration_seconds)}`;
+  const params = new URLSearchParams({lesson: l.lesson_id, scene: s.spread_id, mode: mode.value});
+  $("permalink").href = `?${params}`;
+  $("permalink").textContent = isScene ? "この場面のリンク" : "この再生範囲のリンク";
+  history.replaceState(null, "", `?${params}`);
+  $("direct").href = selected.stream_url;
+  $("download").href = l.download_url;
+  sourceVersion++;
+  audio.pause();
+  // Same-origin audio/mpeg files support byte ranges without download redirects.
+  // Scene files contain only that scene, so native controls cannot cross its end.
+  audio.src = selected.stream_url;
+  audio.load();
+  resetButton();
+  status.textContent = "再生ボタンを押してください。";
+}
+function loadLesson(i, sceneId = null) {
+  index = Math.max(0, Math.min(data.lessons.length - 1, i));
+  const l = currentLesson();
+  lesson.value = String(index);
+  scene.replaceChildren(...l.segments.map((s, j) => new Option(`${s.part}. ${s.subtitle}`, String(j))));
+  scene.value = String(Math.max(0, l.segments.findIndex(s => s.spread_id === sceneId)));
+  $("title").textContent = `${l.lesson_id} · ${l.title}`;
+  $("prev").disabled = index === 0;
+  $("next").disabled = index === data.lessons.length - 1;
+  updateSelection();
+}
+function play() {
+  if (!data) return;
+  const version = sourceVersion;
+  if (audio.error) audio.load();
+  if (audio.ended) audio.currentTime = 0;
+  // Keep play() synchronous within the user tap or ended handler on mobile.
+  const promise = audio.play();
+  if (promise) promise.catch(error => {
+    if (version !== sourceVersion || error.name === "AbortError") return;
+    resetButton();
+    status.textContent = error.name === "NotAllowedError"
+      ? "再生ボタンを押してください。端末が自動再生を停止しました。"
+      : "音源を読み込めませんでした。「再生」で再試行するか、「音源だけを開く」をお試しください。";
+  });
+}
+audio.addEventListener("play", () => {
+  $("play").textContent = "一時停止 / Pause";
+  status.textContent = mode.value === "all" ? "連続再生中 / Continuous play" : "再生中 / Playing";
+});
+audio.addEventListener("playing", () => {
+  status.textContent = mode.value === "all" ? "連続再生中 / Continuous play" : "再生中 / Playing";
+});
+audio.addEventListener("pause", () => {
+  resetButton();
+  if (!audio.ended && audio.currentTime > 0) status.textContent = "一時停止中 / Paused";
+});
+audio.addEventListener("waiting", () => {
+  if (!audio.paused) status.textContent = "音源を読み込んでいます…";
+});
+audio.addEventListener("ended", () => {
+  resetButton();
+  if (mode.value === "all" && index < data.lessons.length - 1) {
+    loadLesson(index + 1);
+    play();
+  } else {
+    status.textContent = mode.value === "scene" ? "この場面の再生が終わりました。" : "再生が終わりました。";
+  }
+});
+audio.addEventListener("error", () => {
+  resetButton();
+  status.textContent = "音源を読み込めませんでした。「再生」で再試行するか、「音源だけを開く」をお試しください。";
+});
+$("play").onclick = () => audio.paused ? play() : audio.pause();
+$("restart").onclick = () => {
+  audio.pause();
+  audio.currentTime = 0;
+  play();
+};
+lesson.onchange = () => loadLesson(Number(lesson.value));
+scene.onchange = updateSelection;
+mode.onchange = updateSelection;
+$("prev").onclick = () => loadLesson(index - 1);
+$("next").onclick = () => loadLesson(index + 1);
+
+fetch("player_data.json", {cache: "no-cache"}).then(response => {
+  if (!response.ok) throw Error(response.status);
+  return response.json();
+}).then(d => {
+  if (d.schema_version !== 2 || !d.lessons.length || d.lessons.some(l => !l.stream_url || !l.segments.length || l.segments.some(s => !s.stream_url))) throw Error("Invalid playback manifest");
+  data = d;
+  lesson.replaceChildren(...d.lessons.map((l, i) => new Option(`${l.lesson_id} · ${l.title}`, String(i))));
+  lesson.disabled = false;
+  $("play").disabled = false;
+  $("restart").disabled = false;
+  $("edition").textContent = d.edition;
+  const params = new URLSearchParams(location.search);
+  if (["scene", "lesson", "all"].includes(params.get("mode"))) mode.value = params.get("mode");
+  loadLesson(Math.max(0, d.lessons.findIndex(l => l.lesson_id === params.get("lesson"))), params.get("scene"));
+}).catch(() => {
+  $("title").textContent = "音源一覧を読み込めませんでした。";
+  status.textContent = "ページを再読み込みしてください。下のGitHubリンクからもダウンロードできます。";
+});
