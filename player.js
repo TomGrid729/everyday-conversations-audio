@@ -19,7 +19,6 @@ function updateSelection() {
     : `${mode.value === "all" ? "この課から順に連続再生" : "この課の会話を最初から再生"} · ${durationLabel(l.duration_seconds)}`;
   const params = new URLSearchParams({lesson: l.lesson_id, scene: s.spread_id, mode: mode.value});
   history.replaceState(null, "", `?${params}`);
-  $("direct").href = selected.stream_url;
   $("download").href = l.download_url;
   sourceVersion++;
   audio.pause();
@@ -53,7 +52,7 @@ function play() {
     resetButton();
     status.textContent = error.name === "NotAllowedError"
       ? "再生ボタンを押してください。端末が自動再生を停止しました。"
-      : "音源を読み込めませんでした。「再生」で再試行するか、「音源だけを開く」をお試しください。";
+      : "音源を読み込めませんでした。「再生」を押してもう一度お試しください。";
   });
 }
 audio.addEventListener("play", () => {
@@ -81,7 +80,7 @@ audio.addEventListener("ended", () => {
 });
 audio.addEventListener("error", () => {
   resetButton();
-  status.textContent = "音源を読み込めませんでした。「再生」で再試行するか、「音源だけを開く」をお試しください。";
+  status.textContent = "音源を読み込めませんでした。「再生」を押してもう一度お試しください。";
 });
 $("play").onclick = () => audio.paused ? play() : audio.pause();
 $("restart").onclick = () => {
