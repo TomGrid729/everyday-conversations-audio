@@ -1,0 +1,2356 @@
+{
+  "edition": "Draft 0.3 / Clear 0.2.0",
+  "release_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/tag/clear-v0.2.0",
+  "lessons": [
+    {
+      "lesson_id": "L001",
+      "title": "Hello!",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L001.mp3",
+      "duration_seconds": 39.864,
+      "size_bytes": 639869,
+      "sha256": "7ecf3b3d07e17346db87a1710a3c23ef2dac33925fe7d465a728410074055044",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L001.mp3",
+      "segments": [
+        {
+          "spread_id": "L001-S01",
+          "part": 1,
+          "subtitle": "Start and end a short conversation",
+          "start_seconds": 0.196042,
+          "end_seconds": 39.43975
+        }
+      ]
+    },
+    {
+      "lesson_id": "L002",
+      "title": "Nice to meet you.",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L002.mp3",
+      "duration_seconds": 41.28,
+      "size_bytes": 662570,
+      "sha256": "e558a69c19690df2295e69df6915f210bcdb9cb564923ca95ed390e1c9135e1c",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L002.mp3",
+      "segments": [
+        {
+          "spread_id": "L002-S01",
+          "part": 1,
+          "subtitle": "Introduce yourself and learn a name",
+          "start_seconds": 0.196042,
+          "end_seconds": 40.861375
+        }
+      ]
+    },
+    {
+      "lesson_id": "L003",
+      "title": "Where are you from?",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L003.mp3",
+      "duration_seconds": 43.368,
+      "size_bytes": 696015,
+      "sha256": "3d18e8fac91e2b53fbb1a87219352109e317903fa6007783028cdcd08c09e5af",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L003.mp3",
+      "segments": [
+        {
+          "spread_id": "L003-S01",
+          "part": 1,
+          "subtitle": "Talk about home and languages",
+          "start_seconds": 0.196042,
+          "end_seconds": 42.947958
+        }
+      ]
+    },
+    {
+      "lesson_id": "L004",
+      "title": "What do you do?",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L004.mp3",
+      "duration_seconds": 40.896,
+      "size_bytes": 656416,
+      "sha256": "48ba34b764f741c90ba735bab03a8be536e03c26b32a62135c927e5aada72de5",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L004.mp3",
+      "segments": [
+        {
+          "spread_id": "L004-S01",
+          "part": 1,
+          "subtitle": "Ask about everyday work",
+          "start_seconds": 0.196042,
+          "end_seconds": 40.4845
+        }
+      ]
+    },
+    {
+      "lesson_id": "L005",
+      "title": "Tell me about yourself.",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L005.mp3",
+      "duration_seconds": 45.984,
+      "size_bytes": 737921,
+      "sha256": "3fc09974b7e5950cf3a3baa44517642d323bfdb0cbb46e9e40ad392a92bd7590",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L005.mp3",
+      "segments": [
+        {
+          "spread_id": "L005-S01",
+          "part": 1,
+          "subtitle": "Share a little about your life",
+          "start_seconds": 0.196042,
+          "end_seconds": 45.567792
+        }
+      ]
+    },
+    {
+      "lesson_id": "L006",
+      "title": "Can you help me?",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L006.mp3",
+      "duration_seconds": 38.616,
+      "size_bytes": 619901,
+      "sha256": "590fa2906ded1bfc07908980eac1d6ecb8930b3997733ff9ff6cd695de1a9964",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L006.mp3",
+      "segments": [
+        {
+          "spread_id": "L006-S01",
+          "part": 1,
+          "subtitle": "Ask for help and work together",
+          "start_seconds": 0.196042,
+          "end_seconds": 38.204292
+        }
+      ]
+    },
+    {
+      "lesson_id": "L007",
+      "title": "I don't understand.",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L007.mp3",
+      "duration_seconds": 43.296,
+      "size_bytes": 694862,
+      "sha256": "77c3452f46bb6fa0d6a2ed5bdb3073b173b0669a80ea848f899085c1e17d50a1",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L007.mp3",
+      "segments": [
+        {
+          "spread_id": "L007-S01",
+          "part": 1,
+          "subtitle": "Ask again and check the message",
+          "start_seconds": 0.196042,
+          "end_seconds": 42.88625
+        }
+      ]
+    },
+    {
+      "lesson_id": "L008",
+      "title": "What is this?",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L008.mp3",
+      "duration_seconds": 39.552,
+      "size_bytes": 634886,
+      "sha256": "d8094f9c68c9e3dd60f4c279d8934f491faf7faeaa39c3f1cfd3aa0e3368806f",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L008.mp3",
+      "segments": [
+        {
+          "spread_id": "L008-S01",
+          "part": 1,
+          "subtitle": "Name an object and find what you need",
+          "start_seconds": 0.196042,
+          "end_seconds": 39.140458
+        }
+      ]
+    },
+    {
+      "lesson_id": "L009",
+      "title": "What time is it?",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L009.mp3",
+      "duration_seconds": 43.896,
+      "size_bytes": 704466,
+      "sha256": "48234a7540896a97e68a8758d94bad42183253ed181fc431d3f904ad50837684",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L009.mp3",
+      "segments": [
+        {
+          "spread_id": "L009-S01",
+          "part": 1,
+          "subtitle": "Check the time and a date",
+          "start_seconds": 0.196042,
+          "end_seconds": 43.472292
+        }
+      ]
+    },
+    {
+      "lesson_id": "L010",
+      "title": "How much is it?",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L010.mp3",
+      "duration_seconds": 41.76,
+      "size_bytes": 670256,
+      "sha256": "f962221fefb593fb5f487596163576f8a25e83dbb3c939e18f7e8b19ca6fd98e",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L010.mp3",
+      "segments": [
+        {
+          "spread_id": "L010-S01",
+          "part": 1,
+          "subtitle": "Check a price and make a purchase",
+          "start_seconds": 0.196042,
+          "end_seconds": 41.356625
+        }
+      ]
+    },
+    {
+      "lesson_id": "L011",
+      "title": "Can I get a coffee?",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L011.mp3",
+      "duration_seconds": 46.632,
+      "size_bytes": 748294,
+      "sha256": "4e2d4e8fdc986ec1e54d507dbeb06435c8bd5ec1d6b7d59920e4a0527d4c4c34",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L011.mp3",
+      "segments": [
+        {
+          "spread_id": "L011-S01",
+          "part": 1,
+          "subtitle": "Order, choose, and pay",
+          "start_seconds": 0.196042,
+          "end_seconds": 46.223458
+        }
+      ]
+    },
+    {
+      "lesson_id": "L012",
+      "title": "Where Is the Station?",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L012.mp3",
+      "duration_seconds": 49.416,
+      "size_bytes": 792886,
+      "sha256": "62159e173bd49019471cba6eb90c27d4c3b2c996949bb0db067e71cd9a89da1b",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L012.mp3",
+      "segments": [
+        {
+          "spread_id": "L012-S01",
+          "part": 1,
+          "subtitle": "Find a place and check the route",
+          "start_seconds": 0.196042,
+          "end_seconds": 48.993542
+        }
+      ]
+    },
+    {
+      "lesson_id": "L013",
+      "title": "What Do You Like?",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L013.mp3",
+      "duration_seconds": 109.464,
+      "size_bytes": 1754607,
+      "sha256": "caa1c36f44a6e5e4a7bc17b88ee3638d2387590a295316584f0a5f72e0bb3b9f",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L013.mp3",
+      "segments": [
+        {
+          "spread_id": "L013-S01",
+          "part": 1,
+          "subtitle": "Find something you both enjoy",
+          "start_seconds": 0.196042,
+          "end_seconds": 53.036875
+        },
+        {
+          "spread_id": "L013-S02",
+          "part": 2,
+          "subtitle": "Talk about hobbies without a list",
+          "start_seconds": 53.836875,
+          "end_seconds": 109.054125
+        }
+      ]
+    },
+    {
+      "lesson_id": "L014",
+      "title": "What Do You Usually Do?",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L014.mp3",
+      "duration_seconds": 105.024,
+      "size_bytes": 1683508,
+      "sha256": "48563455ef78761ffd3966eae07ef2492b063be66e51e81613c153d0ac4aa62d",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L014.mp3",
+      "segments": [
+        {
+          "spread_id": "L014-S01",
+          "part": 1,
+          "subtitle": "Describe a normal weekday",
+          "start_seconds": 0.196042,
+          "end_seconds": 54.077833
+        },
+        {
+          "spread_id": "L014-S02",
+          "part": 2,
+          "subtitle": "Describe what changes at the weekend",
+          "start_seconds": 54.877833,
+          "end_seconds": 104.615417
+        }
+      ]
+    },
+    {
+      "lesson_id": "L015",
+      "title": "Let's Meet Tomorrow",
+      "level": "A1",
+      "variant": "Clear",
+      "filename": "L015.mp3",
+      "duration_seconds": 102.216,
+      "size_bytes": 1638527,
+      "sha256": "eccdf5b602b15a00c094f5535ed3112a87d7c6c20e5adc0d4cc8087bf72a6b9b",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L015.mp3",
+      "segments": [
+        {
+          "spread_id": "L015-S01",
+          "part": 1,
+          "subtitle": "Make a plan that works for both people",
+          "start_seconds": 0.196042,
+          "end_seconds": 48.09725
+        },
+        {
+          "spread_id": "L015-S02",
+          "part": 2,
+          "subtitle": "Change one part and confirm the rest",
+          "start_seconds": 48.89725,
+          "end_seconds": 101.809292
+        }
+      ]
+    },
+    {
+      "lesson_id": "L016",
+      "title": "How Was Your Day?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L016.mp3",
+      "duration_seconds": 55.776,
+      "size_bytes": 894740,
+      "sha256": "a7f572ac7acf4c52e85b74fc387f68bd50d9ee67d4331b7b761f5025bd489190",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L016.mp3",
+      "segments": [
+        {
+          "spread_id": "L016-S01",
+          "part": 1,
+          "subtitle": "Back home after work",
+          "start_seconds": 0.196042,
+          "end_seconds": 55.360208
+        }
+      ]
+    },
+    {
+      "lesson_id": "L017",
+      "title": "What Did You Do Yesterday?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L017.mp3",
+      "duration_seconds": 51.96,
+      "size_bytes": 833641,
+      "sha256": "6b16ed57037c0e73450cfd416a3b161b8b7b56a7c8c26aec9981819fed898ff6",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L017.mp3",
+      "segments": [
+        {
+          "spread_id": "L017-S01",
+          "part": 1,
+          "subtitle": "The missing afternoon",
+          "start_seconds": 0.196042,
+          "end_seconds": 51.553458
+        }
+      ]
+    },
+    {
+      "lesson_id": "L018",
+      "title": "What Are Your Plans?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L018.mp3",
+      "duration_seconds": 54.336,
+      "size_bytes": 871683,
+      "sha256": "40c2fc2e2798b92fa633cbf201f2c6dde5fe457748e975ef01de9eb362c2214b",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L018.mp3",
+      "segments": [
+        {
+          "spread_id": "L018-S01",
+          "part": 1,
+          "subtitle": "An almost free weekend",
+          "start_seconds": 0.196042,
+          "end_seconds": 53.924375
+        }
+      ]
+    },
+    {
+      "lesson_id": "L019",
+      "title": "Have You Ever Been There?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L019.mp3",
+      "duration_seconds": 56.52,
+      "size_bytes": 906672,
+      "sha256": "16c2e2e77c5a67fe7da2db0c5cc2806a6785960db7614a6d7d72f0b78acd1a4e",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L019.mp3",
+      "segments": [
+        {
+          "spread_id": "L019-S01",
+          "part": 1,
+          "subtitle": "A place worth another visit",
+          "start_seconds": 0.196042,
+          "end_seconds": 56.104083
+        }
+      ]
+    },
+    {
+      "lesson_id": "L020",
+      "title": "How Often Do You…?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L020.mp3",
+      "duration_seconds": 55.704,
+      "size_bytes": 893589,
+      "sha256": "5ecc3aa7f50ebe3a6717ab36c33647b1113c0766956b65ed8ed6f9d1c067f001",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L020.mp3",
+      "segments": [
+        {
+          "spread_id": "L020-S01",
+          "part": 1,
+          "subtitle": "Making exercise fit",
+          "start_seconds": 0.196042,
+          "end_seconds": 55.283542
+        }
+      ]
+    },
+    {
+      "lesson_id": "L021",
+      "title": "What's the Weather Like?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L021.mp3",
+      "duration_seconds": 56.52,
+      "size_bytes": 906670,
+      "sha256": "39f9c6af670812b616f719d96938f1c9e29d9df07e3de9761764c549f7021f77",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L021.mp3",
+      "segments": [
+        {
+          "spread_id": "L021-S01",
+          "part": 1,
+          "subtitle": "Will the picnic happen?",
+          "start_seconds": 0.196042,
+          "end_seconds": 56.104708
+        }
+      ]
+    },
+    {
+      "lesson_id": "L022",
+      "title": "How Do I Get There?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L022.mp3",
+      "duration_seconds": 60.192,
+      "size_bytes": 965471,
+      "sha256": "6f0f0ff666be8c0b04ba28349f0993da6b19e4c7c5fd4a48bb1785bd6182205f",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L022.mp3",
+      "segments": [
+        {
+          "spread_id": "L022-S01",
+          "part": 1,
+          "subtitle": "Across town by transit",
+          "start_seconds": 0.196042,
+          "end_seconds": 59.768792
+        }
+      ]
+    },
+    {
+      "lesson_id": "L023",
+      "title": "I'd Like to Check In",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L023.mp3",
+      "duration_seconds": 62.64,
+      "size_bytes": 1004680,
+      "sha256": "5cac1615f91a9aeb83d4b8327c292f541605bc1f4df9caeccd637df6cef133d7",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L023.mp3",
+      "segments": [
+        {
+          "spread_id": "L023-S01",
+          "part": 1,
+          "subtitle": "A room for two nights",
+          "start_seconds": 0.196042,
+          "end_seconds": 62.226292
+        }
+      ]
+    },
+    {
+      "lesson_id": "L024",
+      "title": "Could I See the Menu?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L024.mp3",
+      "duration_seconds": 60.72,
+      "size_bytes": 973931,
+      "sha256": "469dbc7cdd52ada48bad8b69dd0e36573bb5933f2b236722f2cd8b2071aafdd3",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L024.mp3",
+      "segments": [
+        {
+          "spread_id": "L024-S01",
+          "part": 1,
+          "subtitle": "Lunch at a neighborhood restaurant",
+          "start_seconds": 0.196042,
+          "end_seconds": 60.31075
+        }
+      ]
+    },
+    {
+      "lesson_id": "L025",
+      "title": "I'm Looking for Something",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L025.mp3",
+      "duration_seconds": 59.784,
+      "size_bytes": 958948,
+      "sha256": "f943897226433f66a634b2df9f87dfdc1f4f7a6f14037ad90a7ac00a11e6465e",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L025.mp3",
+      "segments": [
+        {
+          "spread_id": "L025-S01",
+          "part": 1,
+          "subtitle": "A jacket for the rain",
+          "start_seconds": 0.196042,
+          "end_seconds": 59.37775
+        }
+      ]
+    },
+    {
+      "lesson_id": "L026",
+      "title": "How Are You Feeling?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L026.mp3",
+      "duration_seconds": 55.296,
+      "size_bytes": 887058,
+      "sha256": "0326ec854f358826aa667f63bd580bd0afdb5e45000988e00cc753b1712396ce",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L026.mp3",
+      "segments": [
+        {
+          "spread_id": "L026-S01",
+          "part": 1,
+          "subtitle": "A quiet evening instead",
+          "start_seconds": 0.196042,
+          "end_seconds": 54.873875
+        }
+      ]
+    },
+    {
+      "lesson_id": "L027",
+      "title": "What Do You Recommend?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L027.mp3",
+      "duration_seconds": 63.48,
+      "size_bytes": 1018137,
+      "sha256": "fd93b2586a2adbfce82509ca7c028e130feaab7cbb1937b1cf4fdc2f7c1f5d9b",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L027.mp3",
+      "segments": [
+        {
+          "spread_id": "L027-S01",
+          "part": 1,
+          "subtitle": "Finding a good first book",
+          "start_seconds": 0.196042,
+          "end_seconds": 63.074292
+        }
+      ]
+    },
+    {
+      "lesson_id": "L028",
+      "title": "Which One Is Better?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L028.mp3",
+      "duration_seconds": 65.64,
+      "size_bytes": 1052728,
+      "sha256": "3d473c67e34833b95cd338d49cae2d036a74b5906930db98227fac3fc6aaa647",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L028.mp3",
+      "segments": [
+        {
+          "spread_id": "L028-S01",
+          "part": 1,
+          "subtitle": "Two apartments, one decision",
+          "start_seconds": 0.196042,
+          "end_seconds": 65.234958
+        }
+      ]
+    },
+    {
+      "lesson_id": "L029",
+      "title": "Why Do You Think So?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L029.mp3",
+      "duration_seconds": 120.216,
+      "size_bytes": 1926817,
+      "sha256": "d783e79b3b2e7f2a2e509a062a0c1c13d820417c6869e67670c380edf23cc27f",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L029.mp3",
+      "segments": [
+        {
+          "spread_id": "L029-S01",
+          "part": 1,
+          "subtitle": "After the movie",
+          "start_seconds": 0.196042,
+          "end_seconds": 60.589375
+        },
+        {
+          "spread_id": "L029-S02",
+          "part": 2,
+          "subtitle": "A cafe that feels right",
+          "start_seconds": 61.389375,
+          "end_seconds": 119.79375
+        }
+      ]
+    },
+    {
+      "lesson_id": "L030",
+      "title": "Something Went Wrong",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L030.mp3",
+      "duration_seconds": 120.336,
+      "size_bytes": 1928739,
+      "sha256": "1a2877229fe479d8472f49ae76b7a0f1d4fa7cb4b13f4db52df1df0e60390ba3",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L030.mp3",
+      "segments": [
+        {
+          "spread_id": "L030-S01",
+          "part": 1,
+          "subtitle": "The printer has other plans",
+          "start_seconds": 0.196042,
+          "end_seconds": 63.106375
+        },
+        {
+          "spread_id": "L030-S02",
+          "part": 2,
+          "subtitle": "A phone left behind",
+          "start_seconds": 63.906375,
+          "end_seconds": 119.925625
+        }
+      ]
+    },
+    {
+      "lesson_id": "L031",
+      "title": "Could You Do Me a Favor?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L031.mp3",
+      "duration_seconds": 114.648,
+      "size_bytes": 1837648,
+      "sha256": "af482f9cb330936c45158cea8cd028ebfa17ef688574056c264f46f42d36a86f",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L031.mp3",
+      "segments": [
+        {
+          "spread_id": "L031-S01",
+          "part": 1,
+          "subtitle": "A small favor with clear details",
+          "start_seconds": 0.196042,
+          "end_seconds": 56.672833
+        },
+        {
+          "spread_id": "L031-S02",
+          "part": 2,
+          "subtitle": "When the first helper cannot do it",
+          "start_seconds": 57.472833,
+          "end_seconds": 114.243458
+        }
+      ]
+    },
+    {
+      "lesson_id": "L032",
+      "title": "Would You Like to Join Us?",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L032.mp3",
+      "duration_seconds": 116.784,
+      "size_bytes": 1871862,
+      "sha256": "e5693647f2359dec9ff07f8be2165b9bffb3020b6df1b43267863c43fe222dd8",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L032.mp3",
+      "segments": [
+        {
+          "spread_id": "L032-S01",
+          "part": 1,
+          "subtitle": "An invitation with an easy exit",
+          "start_seconds": 0.196042,
+          "end_seconds": 56.942083
+        },
+        {
+          "spread_id": "L032-S02",
+          "part": 2,
+          "subtitle": "A kind refusal",
+          "start_seconds": 57.742083,
+          "end_seconds": 116.367875
+        }
+      ]
+    },
+    {
+      "lesson_id": "L033",
+      "title": "Let's Make a Plan",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L033.mp3",
+      "duration_seconds": 119.256,
+      "size_bytes": 1911436,
+      "sha256": "eda7a624ab0e797e49c015a2f48bd9654b9c2ecc887e3b7cc63a79a910fdbd60",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L033.mp3",
+      "segments": [
+        {
+          "spread_id": "L033-S01",
+          "part": 1,
+          "subtitle": "A day trip everyone can manage",
+          "start_seconds": 0.196042,
+          "end_seconds": 59.563125
+        },
+        {
+          "spread_id": "L033-S02",
+          "part": 2,
+          "subtitle": "The forecast changes",
+          "start_seconds": 60.363125,
+          "end_seconds": 118.852083
+        }
+      ]
+    },
+    {
+      "lesson_id": "L034",
+      "title": "Tell Me About Your Trip",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L034.mp3",
+      "duration_seconds": 123.816,
+      "size_bytes": 1984481,
+      "sha256": "1603d97f299df520c700dfcf2efa9b0c493444dff887666b7ef6e028bd5a1446",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L034.mp3",
+      "segments": [
+        {
+          "spread_id": "L034-S01",
+          "part": 1,
+          "subtitle": "The trip that started badly",
+          "start_seconds": 0.196042,
+          "end_seconds": 60.163583
+        },
+        {
+          "spread_id": "L034-S02",
+          "part": 2,
+          "subtitle": "The unexpected best part",
+          "start_seconds": 60.963583,
+          "end_seconds": 123.407083
+        }
+      ]
+    },
+    {
+      "lesson_id": "L035",
+      "title": "It Was Great Talking to You",
+      "level": "A2",
+      "variant": "Clear",
+      "filename": "L035.mp3",
+      "duration_seconds": 118.584,
+      "size_bytes": 1900693,
+      "sha256": "53f7e6f2d2d9932c500094f1f266d37150572c0d4bbbe06e08d5e01a7f1d78c6",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L035.mp3",
+      "segments": [
+        {
+          "spread_id": "L035-S01",
+          "part": 1,
+          "subtitle": "Keeping a new conversation going",
+          "start_seconds": 0.196042,
+          "end_seconds": 58.280583
+        },
+        {
+          "spread_id": "L035-S02",
+          "part": 2,
+          "subtitle": "Leaving without disappearing",
+          "start_seconds": 59.080583,
+          "end_seconds": 118.159917
+        }
+      ]
+    },
+    {
+      "lesson_id": "L036",
+      "title": "It's Been a While!",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L036.mp3",
+      "duration_seconds": 76.608,
+      "size_bytes": 1228387,
+      "sha256": "0adcdf95804645cd16981be5904cfa1f341445823dbde9f5c82ee152f1d000ff",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L036.mp3",
+      "segments": [
+        {
+          "spread_id": "L036-S01",
+          "part": 1,
+          "subtitle": "An unexpected reunion",
+          "start_seconds": 0.196042,
+          "end_seconds": 76.191625
+        }
+      ]
+    },
+    {
+      "lesson_id": "L037",
+      "title": "What Have You Been Up To?",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L037.mp3",
+      "duration_seconds": 82.584,
+      "size_bytes": 1324113,
+      "sha256": "11b7d78a7c7c9f05e492f683d1de33067e2dc84befcfc05edf941be056097c24",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L037.mp3",
+      "segments": [
+        {
+          "spread_id": "L037-S01",
+          "part": 1,
+          "subtitle": "A new routine, still settling",
+          "start_seconds": 0.196042,
+          "end_seconds": 82.174333
+        }
+      ]
+    },
+    {
+      "lesson_id": "L038",
+      "title": "Let Me Tell You What Happened",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L038.mp3",
+      "duration_seconds": 77.856,
+      "size_bytes": 1248397,
+      "sha256": "230d65e3a52584ae6adc1257e72d46adb75e2dc8beaab23d0df9d935dc188903",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L038.mp3",
+      "segments": [
+        {
+          "spread_id": "L038-S01",
+          "part": 1,
+          "subtitle": "The wrong birthday table",
+          "start_seconds": 0.196042,
+          "end_seconds": 77.433833
+        }
+      ]
+    },
+    {
+      "lesson_id": "L039",
+      "title": "That's Interesting!",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L039.mp3",
+      "duration_seconds": 81.696,
+      "size_bytes": 1309879,
+      "sha256": "fd4932fdba3192be4b2f99523a551e03b1c90783105d0ae38441ff09a5d210c5",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L039.mp3",
+      "segments": [
+        {
+          "spread_id": "L039-S01",
+          "part": 1,
+          "subtitle": "An unusual hobby",
+          "start_seconds": 0.196042,
+          "end_seconds": 81.279792
+        }
+      ]
+    },
+    {
+      "lesson_id": "L040",
+      "title": "What Do You Think?",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L040.mp3",
+      "duration_seconds": 79.512,
+      "size_bytes": 1274898,
+      "sha256": "8ad3ffaf227fa291b89ffaab253421ffba34fbf004f0c10c3200009c23c2213f",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L040.mp3",
+      "segments": [
+        {
+          "spread_id": "L040-S01",
+          "part": 1,
+          "subtitle": "A phone-free dinner?",
+          "start_seconds": 0.196042,
+          "end_seconds": 79.107708
+        }
+      ]
+    },
+    {
+      "lesson_id": "L041",
+      "title": "I See Your Point",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L041.mp3",
+      "duration_seconds": 80.76,
+      "size_bytes": 1294882,
+      "sha256": "63b61e5b390debf7e814544d0aaede6a5aa68199fcc38fc11bf786505ffdc77c",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L041.mp3",
+      "segments": [
+        {
+          "spread_id": "L041-S01",
+          "part": 1,
+          "subtitle": "Keeping the old sofa",
+          "start_seconds": 0.196042,
+          "end_seconds": 80.356458
+        }
+      ]
+    },
+    {
+      "lesson_id": "L042",
+      "title": "I'm Not Sure About That",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L042.mp3",
+      "duration_seconds": 88.848,
+      "size_bytes": 1424433,
+      "sha256": "45f7713b31c547b41f86210d7065a32ecf3097030e0d6b5eed4f1bb7e0173879",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L042.mp3",
+      "segments": [
+        {
+          "spread_id": "L042-S01",
+          "part": 1,
+          "subtitle": "A surprise party, maybe",
+          "start_seconds": 0.196042,
+          "end_seconds": 88.432917
+        }
+      ]
+    },
+    {
+      "lesson_id": "L043",
+      "title": "What Would You Do?",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L043.mp3",
+      "duration_seconds": 86.544,
+      "size_bytes": 1387522,
+      "sha256": "53e176c89ad07a9cedbed517ade83c8c2d31222ae502c0602ad6bad0df37065e",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L043.mp3",
+      "segments": [
+        {
+          "spread_id": "L043-S01",
+          "part": 1,
+          "subtitle": "The wallet on the bus",
+          "start_seconds": 0.196042,
+          "end_seconds": 86.122958
+        }
+      ]
+    },
+    {
+      "lesson_id": "L044",
+      "title": "I Need Some Advice",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L044.mp3",
+      "duration_seconds": 87.432,
+      "size_bytes": 1401744,
+      "sha256": "cfb23dad15e478d714cd40c799d94d811c4537cbb5522f1c772bd06021ffa2a3",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L044.mp3",
+      "segments": [
+        {
+          "spread_id": "L044-S01",
+          "part": 1,
+          "subtitle": "Too many weekend commitments",
+          "start_seconds": 0.196042,
+          "end_seconds": 87.006833
+        }
+      ]
+    },
+    {
+      "lesson_id": "L045",
+      "title": "You Should Give It a Try",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L045.mp3",
+      "duration_seconds": 85.704,
+      "size_bytes": 1374081,
+      "sha256": "c6de1a7725cc86ce75e5fff7890e84be3671b5c2555c84f262a70c4b2922d635",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L045.mp3",
+      "segments": [
+        {
+          "spread_id": "L045-S01",
+          "part": 1,
+          "subtitle": "Trying a beginner class",
+          "start_seconds": 0.196042,
+          "end_seconds": 85.300167
+        }
+      ]
+    },
+    {
+      "lesson_id": "L046",
+      "title": "I'm Looking Forward to It",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L046.mp3",
+      "duration_seconds": 99.072,
+      "size_bytes": 1588185,
+      "sha256": "3d4ff1252646f57f7c16c11465c8264911ce97b125e2d646584488ebd62829f9",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L046.mp3",
+      "segments": [
+        {
+          "spread_id": "L046-S01",
+          "part": 1,
+          "subtitle": "The first camping weekend",
+          "start_seconds": 0.196042,
+          "end_seconds": 98.656625
+        }
+      ]
+    },
+    {
+      "lesson_id": "L047",
+      "title": "I'm Worried About…",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L047.mp3",
+      "duration_seconds": 100.56,
+      "size_bytes": 1612002,
+      "sha256": "1d6a7fdaf7775bfcc75e79441eb865835802fc81896d41a60cfb66d133930c35",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L047.mp3",
+      "segments": [
+        {
+          "spread_id": "L047-S01",
+          "part": 1,
+          "subtitle": "The driving test tomorrow",
+          "start_seconds": 0.196042,
+          "end_seconds": 100.1515
+        }
+      ]
+    },
+    {
+      "lesson_id": "L048",
+      "title": "I'm Sorry to Hear That",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L048.mp3",
+      "duration_seconds": 90.48,
+      "size_bytes": 1450569,
+      "sha256": "71cbd3f483c8c0609b24823c8a1e46050f2636f65d98366ffc2dd47b8ccf20c1",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L048.mp3",
+      "segments": [
+        {
+          "spread_id": "L048-S01",
+          "part": 1,
+          "subtitle": "When a familiar place closes",
+          "start_seconds": 0.196042,
+          "end_seconds": 90.060208
+        }
+      ]
+    },
+    {
+      "lesson_id": "L049",
+      "title": "That Reminds Me of…",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L049.mp3",
+      "duration_seconds": 87.408,
+      "size_bytes": 1401362,
+      "sha256": "97c205a6e89537a37eccc9072372c39ff19cb20b49c2ec64755a60a0f505a2b5",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L049.mp3",
+      "segments": [
+        {
+          "spread_id": "L049-S01",
+          "part": 1,
+          "subtitle": "A smell from childhood",
+          "start_seconds": 0.196042,
+          "end_seconds": 86.993958
+        }
+      ]
+    },
+    {
+      "lesson_id": "L050",
+      "title": "By the Way…",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L050.mp3",
+      "duration_seconds": 88.464,
+      "size_bytes": 1418259,
+      "sha256": "3808dab6d4d33089aa9e7940f540a5cf1bf2114100aad9316e0b5b0e3ab7ac12",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L050.mp3",
+      "segments": [
+        {
+          "spread_id": "L050-S01",
+          "part": 1,
+          "subtitle": "Two topics in the hallway",
+          "start_seconds": 0.196042,
+          "end_seconds": 88.04175
+        }
+      ]
+    },
+    {
+      "lesson_id": "L051",
+      "title": "Let Me Explain",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L051.mp3",
+      "duration_seconds": 178.512,
+      "size_bytes": 2860474,
+      "sha256": "c19d550d5065b0d616a5c0f0c9e7174fe75da6a530f039555251646ecfa109e6",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L051.mp3",
+      "segments": [
+        {
+          "spread_id": "L051-S01",
+          "part": 1,
+          "subtitle": "The amplifier in the garage",
+          "start_seconds": 0.196042,
+          "end_seconds": 83.987583
+        },
+        {
+          "spread_id": "L051-S02",
+          "part": 2,
+          "subtitle": "Checking the story with the group",
+          "start_seconds": 84.787583,
+          "end_seconds": 178.093208
+        }
+      ]
+    },
+    {
+      "lesson_id": "L052",
+      "title": "What I Mean Is…",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L052.mp3",
+      "duration_seconds": 177.6,
+      "size_bytes": 2845869,
+      "sha256": "4d7e7543c29ff012e7dbd69a0b2237013c770df2363539b3166e53aea14b043b",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L052.mp3",
+      "segments": [
+        {
+          "spread_id": "L052-S01",
+          "part": 1,
+          "subtitle": "What counts as a light dinner?",
+          "start_seconds": 0.196042,
+          "end_seconds": 87.795333
+        },
+        {
+          "spread_id": "L052-S02",
+          "part": 2,
+          "subtitle": "Quiet does not mean lonely",
+          "start_seconds": 88.595333,
+          "end_seconds": 177.191375
+        }
+      ]
+    },
+    {
+      "lesson_id": "L053",
+      "title": "Could You Be More Specific?",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L053.mp3",
+      "duration_seconds": 181.44,
+      "size_bytes": 2907395,
+      "sha256": "b4eda191745a2ce913b117e268ab7b782b9ac5c932087e864522d53c97cb4dbb",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L053.mp3",
+      "segments": [
+        {
+          "spread_id": "L053-S01",
+          "part": 1,
+          "subtitle": "What does helping at the fair involve?",
+          "start_seconds": 0.196042,
+          "end_seconds": 88.473042
+        },
+        {
+          "spread_id": "L053-S02",
+          "part": 2,
+          "subtitle": "The instructions need an example",
+          "start_seconds": 89.273042,
+          "end_seconds": 181.025708
+        }
+      ]
+    },
+    {
+      "lesson_id": "L054",
+      "title": "There Are Two Reasons",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L054.mp3",
+      "duration_seconds": 192.912,
+      "size_bytes": 3091118,
+      "sha256": "37ba178e572936591593bd8bc1351b077b9265cf9e9bdfa21fb83c945d24db6d",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L054.mp3",
+      "segments": [
+        {
+          "spread_id": "L054-S01",
+          "part": 1,
+          "subtitle": "Why take the overnight train?",
+          "start_seconds": 0.196042,
+          "end_seconds": 93.605708
+        },
+        {
+          "spread_id": "L054-S02",
+          "part": 2,
+          "subtitle": "Choosing the smaller museum",
+          "start_seconds": 94.405708,
+          "end_seconds": 192.503625
+        }
+      ]
+    },
+    {
+      "lesson_id": "L055",
+      "title": "It Depends on the Situation",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L055.mp3",
+      "duration_seconds": 194.88,
+      "size_bytes": 3122650,
+      "sha256": "94317767c31999e755a40893e83d5aa16502e8d013f4322730148a7159550af4",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L055.mp3",
+      "segments": [
+        {
+          "spread_id": "L055-S01",
+          "part": 1,
+          "subtitle": "Is working at home better?",
+          "start_seconds": 0.196042,
+          "end_seconds": 98.225292
+        },
+        {
+          "spread_id": "L055-S02",
+          "part": 2,
+          "subtitle": "When is it okay to drop by?",
+          "start_seconds": 99.025292,
+          "end_seconds": 194.469458
+        }
+      ]
+    },
+    {
+      "lesson_id": "L056",
+      "title": "I Had No Choice",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L056.mp3",
+      "duration_seconds": 180.936,
+      "size_bytes": 2899298,
+      "sha256": "70a97588418e8b4be2c2b2475c1a9c3e260dc0298dd3fddb14a83746e4dad3f5",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L056.mp3",
+      "segments": [
+        {
+          "spread_id": "L056-S01",
+          "part": 1,
+          "subtitle": "A change nobody wanted",
+          "start_seconds": 0.196042,
+          "end_seconds": 86.587833
+        },
+        {
+          "spread_id": "L056-S02",
+          "part": 2,
+          "subtitle": "Explaining the missed celebration",
+          "start_seconds": 87.387833,
+          "end_seconds": 180.5325
+        }
+      ]
+    },
+    {
+      "lesson_id": "L057",
+      "title": "I Wish I Had…",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L057.mp3",
+      "duration_seconds": 195.312,
+      "size_bytes": 3129540,
+      "sha256": "c29bd50c5216f50fc3875989603b8fcdea7a6aaeb96f5fbfb8760cdccecd2fa6",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L057.mp3",
+      "segments": [
+        {
+          "spread_id": "L057-S01",
+          "part": 1,
+          "subtitle": "The photographs that never left the phone",
+          "start_seconds": 0.196042,
+          "end_seconds": 97.427708
+        },
+        {
+          "spread_id": "L057-S02",
+          "part": 2,
+          "subtitle": "The ticket bought too quickly",
+          "start_seconds": 98.227708,
+          "end_seconds": 194.897833
+        }
+      ]
+    },
+    {
+      "lesson_id": "L058",
+      "title": "Things Have Changed",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L058.mp3",
+      "duration_seconds": 197.904,
+      "size_bytes": 3171066,
+      "sha256": "ddb770ec373c59a651e2d1a9107ccfd4dca9130af4830e7488c3fabc8442104d",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L058.mp3",
+      "segments": [
+        {
+          "spread_id": "L058-S01",
+          "part": 1,
+          "subtitle": "Returning to the old neighborhood",
+          "start_seconds": 0.196042,
+          "end_seconds": 94.467625
+        },
+        {
+          "spread_id": "L058-S02",
+          "part": 2,
+          "subtitle": "The kitchen has changed too",
+          "start_seconds": 95.267625,
+          "end_seconds": 197.478583
+        }
+      ]
+    },
+    {
+      "lesson_id": "L059",
+      "title": "We Need to Work Something Out",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L059.mp3",
+      "duration_seconds": 196.92,
+      "size_bytes": 3155326,
+      "sha256": "42e87534eb1ff37f5cb29cf3d9666648e96fc249d82b00989f4bed9d7673dec7",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L059.mp3",
+      "segments": [
+        {
+          "spread_id": "L059-S01",
+          "part": 1,
+          "subtitle": "The shared garden is drying out",
+          "start_seconds": 0.196042,
+          "end_seconds": 97.308167
+        },
+        {
+          "spread_id": "L059-S02",
+          "part": 2,
+          "subtitle": "A plan for absences",
+          "start_seconds": 98.108167,
+          "end_seconds": 196.505583
+        }
+      ]
+    },
+    {
+      "lesson_id": "L060",
+      "title": "Let's Find a Compromise",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L060.mp3",
+      "duration_seconds": 191.352,
+      "size_bytes": 3066137,
+      "sha256": "1c95f3467ce0f9eab39d726ea94735dcc10bd152f85a8152ab593464a4beb307",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L060.mp3",
+      "segments": [
+        {
+          "spread_id": "L060-S01",
+          "part": 1,
+          "subtitle": "Practice time and quiet time",
+          "start_seconds": 0.196042,
+          "end_seconds": 97.235708
+        },
+        {
+          "spread_id": "L060-S02",
+          "part": 2,
+          "subtitle": "Two tastes, one living room",
+          "start_seconds": 98.035708,
+          "end_seconds": 190.947917
+        }
+      ]
+    },
+    {
+      "lesson_id": "L061",
+      "title": "I Wasn't Expecting That",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L061.mp3",
+      "duration_seconds": 190.32,
+      "size_bytes": 3049609,
+      "sha256": "9627e5822ecb32e38aaed3b51fe6d9ee6833371ca1db8e641bb2183de78590d5",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L061.mp3",
+      "segments": [
+        {
+          "spread_id": "L061-S01",
+          "part": 1,
+          "subtitle": "The suitcase surprise",
+          "start_seconds": 0.196042,
+          "end_seconds": 91.104792
+        },
+        {
+          "spread_id": "L061-S02",
+          "part": 2,
+          "subtitle": "An unexpected invitation",
+          "start_seconds": 91.904792,
+          "end_seconds": 189.898833
+        }
+      ]
+    },
+    {
+      "lesson_id": "L062",
+      "title": "How Did You Manage That?",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L062.mp3",
+      "duration_seconds": 211.752,
+      "size_bytes": 3392866,
+      "sha256": "8bff1107918558d5b41d785ab0aa6f6cc6693f677aae212dd961c4dbc1ede438",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L062.mp3",
+      "segments": [
+        {
+          "spread_id": "L062-S01",
+          "part": 1,
+          "subtitle": "The bookshelf that looks new",
+          "start_seconds": 0.196042,
+          "end_seconds": 100.627125
+        },
+        {
+          "spread_id": "L062-S02",
+          "part": 2,
+          "subtitle": "A family reunion without chaos",
+          "start_seconds": 101.427125,
+          "end_seconds": 211.326583
+        }
+      ]
+    },
+    {
+      "lesson_id": "L063",
+      "title": "That's Not Quite What I Meant",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L063.mp3",
+      "duration_seconds": 194.544,
+      "size_bytes": 3117272,
+      "sha256": "816d8739dc0fbd6731c352bb28fc269acad047cd08edd8e8adc0d4907e2bea98",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L063.mp3",
+      "segments": [
+        {
+          "spread_id": "L063-S01",
+          "part": 1,
+          "subtitle": "A comment that sounded harsher than intended",
+          "start_seconds": 0.196042,
+          "end_seconds": 92.280042
+        },
+        {
+          "spread_id": "L063-S02",
+          "part": 2,
+          "subtitle": "Not help less, ask first",
+          "start_seconds": 93.080042,
+          "end_seconds": 194.123708
+        }
+      ]
+    },
+    {
+      "lesson_id": "L064",
+      "title": "Let Me Think About It",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L064.mp3",
+      "duration_seconds": 190.152,
+      "size_bytes": 3046914,
+      "sha256": "01662bf5fb9274d66a16a5694f7931422c5c33757abb9f338f61f744e5d657fe",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L064.mp3",
+      "segments": [
+        {
+          "spread_id": "L064-S01",
+          "part": 1,
+          "subtitle": "A weekend course with a deadline",
+          "start_seconds": 0.196042,
+          "end_seconds": 96.317958
+        },
+        {
+          "spread_id": "L064-S02",
+          "part": 2,
+          "subtitle": "The answer after thinking it through",
+          "start_seconds": 97.117958,
+          "end_seconds": 189.728208
+        }
+      ]
+    },
+    {
+      "lesson_id": "L065",
+      "title": "Let's Talk It Through",
+      "level": "B1",
+      "variant": "Clear",
+      "filename": "L065.mp3",
+      "duration_seconds": 199.632,
+      "size_bytes": 3198746,
+      "sha256": "ff5b5b9b31f3720a98bd6ee0145a4b483d0fd4fdd581bf5f63ca7355aff2a50d",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L065.mp3",
+      "segments": [
+        {
+          "spread_id": "L065-S01",
+          "part": 1,
+          "subtitle": "Thinking about adopting a cat",
+          "start_seconds": 0.196042,
+          "end_seconds": 99.26625
+        },
+        {
+          "spread_id": "L065-S02",
+          "part": 2,
+          "subtitle": "Reaching a decision together",
+          "start_seconds": 100.06625,
+          "end_seconds": 199.22625
+        }
+      ]
+    },
+    {
+      "lesson_id": "L066",
+      "title": "Maybe Another Time",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L066.mp3",
+      "duration_seconds": 114.768,
+      "size_bytes": 1839558,
+      "sha256": "8b88f38501496b06d01592827beeb32aa5efe94b44dd3bbb62295daf59cb2204",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L066.mp3",
+      "segments": [
+        {
+          "spread_id": "L066-S01",
+          "part": 1,
+          "subtitle": "An invitation after a long week",
+          "start_seconds": 0.196042,
+          "end_seconds": 114.35625
+        }
+      ]
+    },
+    {
+      "lesson_id": "L067",
+      "title": "Do You Mind?",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L067.mp3",
+      "duration_seconds": 101.784,
+      "size_bytes": 1631594,
+      "sha256": "497aeba5a3bf4559287129fed2abc1ea73a8a2c781a88d054731012e42cbfa5a",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L067.mp3",
+      "segments": [
+        {
+          "spread_id": "L067-S01",
+          "part": 1,
+          "subtitle": "A window, a bag, and a polite request",
+          "start_seconds": 0.196042,
+          "end_seconds": 101.362542
+        }
+      ]
+    },
+    {
+      "lesson_id": "L068",
+      "title": "It's Getting on My Nerves",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L068.mp3",
+      "duration_seconds": 102.48,
+      "size_bytes": 1642767,
+      "sha256": "3a00b475cd5ef5c0ed1a226fd56ea65160a17a3b6e58606b1a0af35bba7341f4",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L068.mp3",
+      "segments": [
+        {
+          "spread_id": "L068-S01",
+          "part": 1,
+          "subtitle": "The clicking pen",
+          "start_seconds": 0.196042,
+          "end_seconds": 102.073708
+        }
+      ]
+    },
+    {
+      "lesson_id": "L069",
+      "title": "I'm Just Kidding",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L069.mp3",
+      "duration_seconds": 111.216,
+      "size_bytes": 1782665,
+      "sha256": "cd268b9e1ce1c11cc1a284521caeb0cc5803bed2e718a1ddf08fdd1699490b02",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L069.mp3",
+      "segments": [
+        {
+          "spread_id": "L069-S01",
+          "part": 1,
+          "subtitle": "A joke that needs checking",
+          "start_seconds": 0.196042,
+          "end_seconds": 110.806667
+        }
+      ]
+    },
+    {
+      "lesson_id": "L070",
+      "title": "So, Is That a Yes?",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L070.mp3",
+      "duration_seconds": 103.344,
+      "size_bytes": 1656591,
+      "sha256": "3b39cce638cc34dae16bef2afb76554d761f17d7dcd49057e670a9c40d239fb5",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L070.mp3",
+      "segments": [
+        {
+          "spread_id": "L070-S01",
+          "part": 1,
+          "subtitle": "An enthusiastic maybe",
+          "start_seconds": 0.196042,
+          "end_seconds": 102.929583
+        }
+      ]
+    },
+    {
+      "lesson_id": "L071",
+      "title": "What Works for Everyone?",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L071.mp3",
+      "duration_seconds": 110.592,
+      "size_bytes": 1772687,
+      "sha256": "2d1226306889164a7cb1c7d6de521c9a1de1501277aff69152128ad403e71b52",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L071.mp3",
+      "segments": [
+        {
+          "spread_id": "L071-S01",
+          "part": 1,
+          "subtitle": "Three calendars and one celebration",
+          "start_seconds": 0.196042,
+          "end_seconds": 110.1705
+        }
+      ]
+    },
+    {
+      "lesson_id": "L072",
+      "title": "What Did I Miss?",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L072.mp3",
+      "duration_seconds": 103.248,
+      "size_bytes": 1655049,
+      "sha256": "66fe2ecbe11bcb3d38ab5fa8c3014ca3948ff2f52cd1fd84413168ab33fda45c",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L072.mp3",
+      "segments": [
+        {
+          "spread_id": "L072-S01",
+          "part": 1,
+          "subtitle": "Joining the plan halfway through",
+          "start_seconds": 0.196042,
+          "end_seconds": 102.822417
+        }
+      ]
+    },
+    {
+      "lesson_id": "L073",
+      "title": "Apparently…",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L073.mp3",
+      "duration_seconds": 110.4,
+      "size_bytes": 1769586,
+      "sha256": "23c1c9bb88df1a60e66f07bdfd066a7b741b345966f05ff46ca1ffcba3210bdd",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L073.mp3",
+      "segments": [
+        {
+          "spread_id": "L073-S01",
+          "part": 1,
+          "subtitle": "A rumor about the neighborhood pool",
+          "start_seconds": 0.196042,
+          "end_seconds": 109.998042
+        }
+      ]
+    },
+    {
+      "lesson_id": "L074",
+      "title": "Anyway, Where Were We?",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L074.mp3",
+      "duration_seconds": 117.792,
+      "size_bytes": 1887998,
+      "sha256": "6da8b7bf29f41c21bdc36a116247805003eea42b1206a94a1422075b1920666d",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L074.mp3",
+      "segments": [
+        {
+          "spread_id": "L074-S01",
+          "part": 1,
+          "subtitle": "Back to the holiday plan",
+          "start_seconds": 0.196042,
+          "end_seconds": 117.377875
+        }
+      ]
+    },
+    {
+      "lesson_id": "L075",
+      "title": "You Know Who I Mean",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L075.mp3",
+      "duration_seconds": 112.248,
+      "size_bytes": 1799199,
+      "sha256": "c19c5ecfdd79ab262f177be823504bf576edd88e0a5604dcfc49da93b50ca06a",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L075.mp3",
+      "segments": [
+        {
+          "spread_id": "L075-S01",
+          "part": 1,
+          "subtitle": "Which person are we talking about?",
+          "start_seconds": 0.196042,
+          "end_seconds": 111.827292
+        }
+      ]
+    },
+    {
+      "lesson_id": "L076",
+      "title": "We need to talk.",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L076.mp3",
+      "duration_seconds": 149.424,
+      "size_bytes": 2394604,
+      "sha256": "ef779f064ce198ebedfb9c6e57ebf4449dd82e0f33f24e47faa618e53ec81056",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L076.mp3",
+      "segments": [
+        {
+          "spread_id": "L076-S01",
+          "part": 1,
+          "subtitle": "Say what bothered you",
+          "start_seconds": 0.196042,
+          "end_seconds": 73.232583
+        },
+        {
+          "spread_id": "L076-S02",
+          "part": 2,
+          "subtitle": "Find a way forward",
+          "start_seconds": 74.032583,
+          "end_seconds": 149.002542
+        }
+      ]
+    },
+    {
+      "lesson_id": "L077",
+      "title": "I Thought We Had a Deal",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L077.mp3",
+      "duration_seconds": 224.592,
+      "size_bytes": 3598509,
+      "sha256": "879a291c6542ae804e4c35e7df90762bd728e8bf3d6cf8b807e2f634c88019bc",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L077.mp3",
+      "segments": [
+        {
+          "spread_id": "L077-S01",
+          "part": 1,
+          "subtitle": "The car with an empty tank",
+          "start_seconds": 0.196042,
+          "end_seconds": 109.420958
+        },
+        {
+          "spread_id": "L077-S02",
+          "part": 2,
+          "subtitle": "A workable agreement",
+          "start_seconds": 110.220958,
+          "end_seconds": 224.188417
+        }
+      ]
+    },
+    {
+      "lesson_id": "L078",
+      "title": "That's Not What Happened",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L078.mp3",
+      "duration_seconds": 215.616,
+      "size_bytes": 3454751,
+      "sha256": "257882f791f05f8940c58e9d994ff72cacb03dd860d0ecae6f8bbda05ad07d33",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L078.mp3",
+      "segments": [
+        {
+          "spread_id": "L078-S01",
+          "part": 1,
+          "subtitle": "Two accounts of a broken vase",
+          "start_seconds": 0.196042,
+          "end_seconds": 107.477417
+        },
+        {
+          "spread_id": "L078-S02",
+          "part": 2,
+          "subtitle": "A third perspective",
+          "start_seconds": 108.277417,
+          "end_seconds": 215.193958
+        }
+      ]
+    },
+    {
+      "lesson_id": "L079",
+      "title": "I Should've Told You",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L079.mp3",
+      "duration_seconds": 209.76,
+      "size_bytes": 3360954,
+      "sha256": "ea7d79efbaee07190466d7f2d2d3d07913c2662728c0dba296b10180f8b1b54c",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L079.mp3",
+      "segments": [
+        {
+          "spread_id": "L079-S01",
+          "part": 1,
+          "subtitle": "News shared with the wrong person first",
+          "start_seconds": 0.196042,
+          "end_seconds": 101.867875
+        },
+        {
+          "spread_id": "L079-S02",
+          "part": 2,
+          "subtitle": "The message that should have been sent",
+          "start_seconds": 102.667875,
+          "end_seconds": 209.344958
+        }
+      ]
+    },
+    {
+      "lesson_id": "L080",
+      "title": "Are We Okay?",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L080.mp3",
+      "duration_seconds": 236.688,
+      "size_bytes": 3792217,
+      "sha256": "aa07b7ce08775742eca9ad0479952fc55709889eadc335673c8a73f1f112dc7d",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L080.mp3",
+      "segments": [
+        {
+          "spread_id": "L080-S01",
+          "part": 1,
+          "subtitle": "Checking after a disagreement",
+          "start_seconds": 0.196042,
+          "end_seconds": 116.47
+        },
+        {
+          "spread_id": "L080-S02",
+          "part": 2,
+          "subtitle": "A calmer conversation a week later",
+          "start_seconds": 117.27,
+          "end_seconds": 236.263417
+        }
+      ]
+    },
+    {
+      "lesson_id": "L081",
+      "title": "You Won't Believe This",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L081.mp3",
+      "duration_seconds": 225.192,
+      "size_bytes": 3608117,
+      "sha256": "5abcc2a198c2cbbe3d63eb6f6dc0a6396fa24c4865caba5baff4c7671fac026f",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L081.mp3",
+      "segments": [
+        {
+          "spread_id": "L081-S01",
+          "part": 1,
+          "subtitle": "The voice on the radio",
+          "start_seconds": 0.196042,
+          "end_seconds": 114.690917
+        },
+        {
+          "spread_id": "L081-S02",
+          "part": 2,
+          "subtitle": "A familiar face in an old photograph",
+          "start_seconds": 115.490917,
+          "end_seconds": 224.78525
+        }
+      ]
+    },
+    {
+      "lesson_id": "L082",
+      "title": "You're Exaggerating",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L082.mp3",
+      "duration_seconds": 233.664,
+      "size_bytes": 3743798,
+      "sha256": "a2bc75d0a87078339cbb7e38a98068bcfaa6425089f295ead5480229720bedee",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L082.mp3",
+      "segments": [
+        {
+          "spread_id": "L082-S01",
+          "part": 1,
+          "subtitle": "The queue that grew in the telling",
+          "start_seconds": 0.196042,
+          "end_seconds": 120.181875
+        },
+        {
+          "spread_id": "L082-S02",
+          "part": 2,
+          "subtitle": "The allegedly impossible hike",
+          "start_seconds": 120.981875,
+          "end_seconds": 233.238375
+        }
+      ]
+    },
+    {
+      "lesson_id": "L083",
+      "title": "Very Funny",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L083.mp3",
+      "duration_seconds": 211.416,
+      "size_bytes": 3387456,
+      "sha256": "fbd81482b5458adc07634c46928ee68a9d5bd0f81850d65d63c7a06382605cca",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L083.mp3",
+      "segments": [
+        {
+          "spread_id": "L083-S01",
+          "part": 1,
+          "subtitle": "The apron with a slogan",
+          "start_seconds": 0.196042,
+          "end_seconds": 110.217417
+        },
+        {
+          "spread_id": "L083-S02",
+          "part": 2,
+          "subtitle": "When the joke is not welcome",
+          "start_seconds": 111.017417,
+          "end_seconds": 210.994333
+        }
+      ]
+    },
+    {
+      "lesson_id": "L084",
+      "title": "Well, That Went Well",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L084.mp3",
+      "duration_seconds": 232.176,
+      "size_bytes": 3719968,
+      "sha256": "9beacaa56fb13556128e3e21b2f50202dd9966cb084a744c7f546ab3e151a392",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L084.mp3",
+      "segments": [
+        {
+          "spread_id": "L084-S01",
+          "part": 1,
+          "subtitle": "The shelf that did not stay up",
+          "start_seconds": 0.196042,
+          "end_seconds": 114.097458
+        },
+        {
+          "spread_id": "L084-S02",
+          "part": 2,
+          "subtitle": "A compliment that really is a compliment",
+          "start_seconds": 114.897458,
+          "end_seconds": 231.750292
+        }
+      ]
+    },
+    {
+      "lesson_id": "L085",
+      "title": "That Came Out Wrong",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L085.mp3",
+      "duration_seconds": 235.824,
+      "size_bytes": 3778393,
+      "sha256": "c9c56f4b9e4a0c27c6a904c136cdbaaebc7c86add60caa1e2c7e3deb54bb74cc",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L085.mp3",
+      "segments": [
+        {
+          "spread_id": "L085-S01",
+          "part": 1,
+          "subtitle": "The compliment with an unfortunate extra word",
+          "start_seconds": 0.196042,
+          "end_seconds": 115.885292
+        },
+        {
+          "spread_id": "L085-S02",
+          "part": 2,
+          "subtitle": "A practical offer that sounded dismissive",
+          "start_seconds": 116.685292,
+          "end_seconds": 235.416458
+        }
+      ]
+    },
+    {
+      "lesson_id": "L086",
+      "title": "My Phone Knows Too Much",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L086.mp3",
+      "duration_seconds": 234.96,
+      "size_bytes": 3764563,
+      "sha256": "33a79484adc43f20f7b76d8277772bf14a42c287cc5b6b0d8822e78d96aa34e8",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L086.mp3",
+      "segments": [
+        {
+          "spread_id": "L086-S01",
+          "part": 1,
+          "subtitle": "The suspiciously relevant advertisement",
+          "start_seconds": 0.196042,
+          "end_seconds": 123.196208
+        },
+        {
+          "spread_id": "L086-S02",
+          "part": 2,
+          "subtitle": "A photo shared too widely",
+          "start_seconds": 123.996208,
+          "end_seconds": 234.554167
+        }
+      ]
+    },
+    {
+      "lesson_id": "L087",
+      "title": "I'm Thinking of Taking a Class",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L087.mp3",
+      "duration_seconds": 232.92,
+      "size_bytes": 3731904,
+      "sha256": "7a5999bea5138712a61e974d9c253c7e9d828b233ae3d8707ebf2912baadd9ff",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L087.mp3",
+      "segments": [
+        {
+          "spread_id": "L087-S01",
+          "part": 1,
+          "subtitle": "Learning to mend things",
+          "start_seconds": 0.196042,
+          "end_seconds": 118.23825
+        },
+        {
+          "spread_id": "L087-S02",
+          "part": 2,
+          "subtitle": "A trial lesson changes the plan",
+          "start_seconds": 119.03825,
+          "end_seconds": 232.514958
+        }
+      ]
+    },
+    {
+      "lesson_id": "L088",
+      "title": "I Can't Keep Doing This",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L088.mp3",
+      "duration_seconds": 210.816,
+      "size_bytes": 3377873,
+      "sha256": "d3788efb80cfcf6fae50b6ee96a5f5b14152b4612321de481c83249d0036bbcf",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L088.mp3",
+      "segments": [
+        {
+          "spread_id": "L088-S01",
+          "part": 1,
+          "subtitle": "The invisible household list",
+          "start_seconds": 0.196042,
+          "end_seconds": 104.624875
+        },
+        {
+          "spread_id": "L088-S02",
+          "part": 2,
+          "subtitle": "Stepping back from a volunteer role",
+          "start_seconds": 105.424875,
+          "end_seconds": 210.393167
+        }
+      ]
+    },
+    {
+      "lesson_id": "L089",
+      "title": "Is That a Thing Here?",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L089.mp3",
+      "duration_seconds": 238.296,
+      "size_bytes": 3817988,
+      "sha256": "1e9af314c69c7135517849ae7a38b5aa41362e798cfa05a8a096c3c7404f9d82",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L089.mp3",
+      "segments": [
+        {
+          "spread_id": "L089-S01",
+          "part": 1,
+          "subtitle": "What does bring a dish mean?",
+          "start_seconds": 0.196042,
+          "end_seconds": 117.334667
+        },
+        {
+          "spread_id": "L089-S02",
+          "part": 2,
+          "subtitle": "Shoes, gifts, and asking the host",
+          "start_seconds": 118.134667,
+          "end_seconds": 237.874792
+        }
+      ]
+    },
+    {
+      "lesson_id": "L090",
+      "title": "Do We Really Need It?",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L090.mp3",
+      "duration_seconds": 246.888,
+      "size_bytes": 3955598,
+      "sha256": "8173e48a8c66d487cf9a6f873e1bac6c92124e3c1b6e995b68ed89fcf1f5e404",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L090.mp3",
+      "segments": [
+        {
+          "spread_id": "L090-S01",
+          "part": 1,
+          "subtitle": "The robot vacuum in the shopping cart",
+          "start_seconds": 0.196042,
+          "end_seconds": 121.073042
+        },
+        {
+          "spread_id": "L090-S02",
+          "part": 2,
+          "subtitle": "The trial gives a mixed answer",
+          "start_seconds": 121.873042,
+          "end_seconds": 246.468083
+        }
+      ]
+    },
+    {
+      "lesson_id": "L091",
+      "title": "What If We Moved?",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L091.mp3",
+      "duration_seconds": 251.496,
+      "size_bytes": 4029391,
+      "sha256": "389af87dd487647f7abfcea97f35af1843c620b654d6337970856449eefc45eb",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L091.mp3",
+      "segments": [
+        {
+          "spread_id": "L091-S01",
+          "part": 1,
+          "subtitle": "Imagining a different neighborhood",
+          "start_seconds": 0.196042,
+          "end_seconds": 127.00225
+        },
+        {
+          "spread_id": "L091-S02",
+          "part": 2,
+          "subtitle": "After walking the neighborhood",
+          "start_seconds": 127.80225,
+          "end_seconds": 251.072667
+        }
+      ]
+    },
+    {
+      "lesson_id": "L092",
+      "title": "Something Has to Give",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L092.mp3",
+      "duration_seconds": 252.816,
+      "size_bytes": 4050541,
+      "sha256": "0b70c6e09b57c511fb75d9aacd57576c58759add487a07a83d83cd6caf1cd8ce",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L092.mp3",
+      "segments": [
+        {
+          "spread_id": "L092-S01",
+          "part": 1,
+          "subtitle": "The week with no empty space",
+          "start_seconds": 0.196042,
+          "end_seconds": 128.139958
+        },
+        {
+          "spread_id": "L092-S02",
+          "part": 2,
+          "subtitle": "A budget with too many priorities",
+          "start_seconds": 128.939958,
+          "end_seconds": 252.399583
+        }
+      ]
+    },
+    {
+      "lesson_id": "L093",
+      "title": "That's Not What I Expected",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L093.mp3",
+      "duration_seconds": 235.728,
+      "size_bytes": 3776869,
+      "sha256": "6139efd5c66f1298bac72c78450dc21bab9af178ae132b8d0619975cd5cb4f7c",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L093.mp3",
+      "segments": [
+        {
+          "spread_id": "L093-S01",
+          "part": 1,
+          "subtitle": "The tour behind the advertisement",
+          "start_seconds": 0.196042,
+          "end_seconds": 114.907083
+        },
+        {
+          "spread_id": "L093-S02",
+          "part": 2,
+          "subtitle": "A film with the wrong promise",
+          "start_seconds": 115.707083,
+          "end_seconds": 235.307375
+        }
+      ]
+    },
+    {
+      "lesson_id": "L094",
+      "title": "I Need Some Space",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L094.mp3",
+      "duration_seconds": 220.968,
+      "size_bytes": 3540455,
+      "sha256": "44cc410688cb425f44483aa9f823aeef886959db390acabb136d2634addcd629",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L094.mp3",
+      "segments": [
+        {
+          "spread_id": "L094-S01",
+          "part": 1,
+          "subtitle": "An evening without conversation",
+          "start_seconds": 0.196042,
+          "end_seconds": 104.583583
+        },
+        {
+          "spread_id": "L094-S02",
+          "part": 2,
+          "subtitle": "A boundary that needs clearer timing",
+          "start_seconds": 105.383583,
+          "end_seconds": 220.559458
+        }
+      ]
+    },
+    {
+      "lesson_id": "L095",
+      "title": "Can We Sort This Out?",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L095.mp3",
+      "duration_seconds": 221.232,
+      "size_bytes": 3544691,
+      "sha256": "5c93cc889d4c3b95311db4e535afef6dddad5ca9f7868bdd07ab46d04afad24b",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L095.mp3",
+      "segments": [
+        {
+          "spread_id": "L095-S01",
+          "part": 1,
+          "subtitle": "The quiet room beside the elevator",
+          "start_seconds": 0.196042,
+          "end_seconds": 110.646625
+        },
+        {
+          "spread_id": "L095-S02",
+          "part": 2,
+          "subtitle": "A charge that does not match the agreement",
+          "start_seconds": 111.446625,
+          "end_seconds": 220.828833
+        }
+      ]
+    },
+    {
+      "lesson_id": "L096",
+      "title": "You Don't Sound Convinced",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L096.mp3",
+      "duration_seconds": 230.856,
+      "size_bytes": 3698837,
+      "sha256": "aa2e2e884c57d7da7b8b41c452f40ffe226d5835a55b7d081c31cef0186a5f1a",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L096.mp3",
+      "segments": [
+        {
+          "spread_id": "L096-S01",
+          "part": 1,
+          "subtitle": "The hesitant yes to a book club",
+          "start_seconds": 0.196042,
+          "end_seconds": 116.369875
+        },
+        {
+          "spread_id": "L096-S02",
+          "part": 2,
+          "subtitle": "Feedback on a wedding toast",
+          "start_seconds": 117.169875,
+          "end_seconds": 230.449042
+        }
+      ]
+    },
+    {
+      "lesson_id": "L097",
+      "title": "That Changes Things",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L097.mp3",
+      "duration_seconds": 236.04,
+      "size_bytes": 3781852,
+      "sha256": "4e3819a6202b243c86039c3a8feeae076da2528d907216e44fb5f2de14e098e9",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L097.mp3",
+      "segments": [
+        {
+          "spread_id": "L097-S01",
+          "part": 1,
+          "subtitle": "A room with a different entrance",
+          "start_seconds": 0.196042,
+          "end_seconds": 116.810125
+        },
+        {
+          "spread_id": "L097-S02",
+          "part": 2,
+          "subtitle": "An offer with an unexpected schedule",
+          "start_seconds": 117.610125,
+          "end_seconds": 235.633542
+        }
+      ]
+    },
+    {
+      "lesson_id": "L098",
+      "title": "So, What's the Plan Now?",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L098.mp3",
+      "duration_seconds": 222.96,
+      "size_bytes": 3572373,
+      "sha256": "2607b39a1b050305bd4101b70b84e04655e240de219f30d920d03d01d16847ac",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L098.mp3",
+      "segments": [
+        {
+          "spread_id": "L098-S01",
+          "part": 1,
+          "subtitle": "The ferry is canceled",
+          "start_seconds": 0.196042,
+          "end_seconds": 107.15575
+        },
+        {
+          "spread_id": "L098-S02",
+          "part": 2,
+          "subtitle": "Cooking when the oven stops working",
+          "start_seconds": 107.95575,
+          "end_seconds": 222.552708
+        }
+      ]
+    },
+    {
+      "lesson_id": "L099",
+      "title": "Here's What You Missed",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L099.mp3",
+      "duration_seconds": 230.136,
+      "size_bytes": 3687300,
+      "sha256": "29a38db211317fd2a9fb58308ce6784495a6b8f5e165a67fa657476b9024a9d4",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L099.mp3",
+      "segments": [
+        {
+          "spread_id": "L099-S01",
+          "part": 1,
+          "subtitle": "Catching up after the planning meeting",
+          "start_seconds": 0.196042,
+          "end_seconds": 122.148
+        },
+        {
+          "spread_id": "L099-S02",
+          "part": 2,
+          "subtitle": "What happened while you were away",
+          "start_seconds": 122.948,
+          "end_seconds": 229.718
+        }
+      ]
+    },
+    {
+      "lesson_id": "L100",
+      "title": "We'll Figure It Out",
+      "level": "B2",
+      "variant": "Clear",
+      "filename": "L100.mp3",
+      "duration_seconds": 229.704,
+      "size_bytes": 3680377,
+      "sha256": "0fba503d0e238691e5c9a1d2842e6f4eac838206b47ec1c0cda839d5f92a5dd6",
+      "download_url": "https://github.com/TomGrid729/everyday-conversations-audio/releases/download/clear-v0.2.0/L100.mp3",
+      "segments": [
+        {
+          "spread_id": "L100-S01",
+          "part": 1,
+          "subtitle": "A reunion with several moving parts",
+          "start_seconds": 0.196042,
+          "end_seconds": 115.953667
+        },
+        {
+          "spread_id": "L100-S02",
+          "part": 2,
+          "subtitle": "After everyone finally arrives",
+          "start_seconds": 116.753667,
+          "end_seconds": 229.279542
+        }
+      ]
+    }
+  ]
+}
