@@ -1,8 +1,9 @@
 # Everyday Conversations — Audio
 
-## Web player 2.0
+## Web player 2.1
 
 [Open the audio player](https://tomgrid729.github.io/everyday-conversations-audio/).
+Choose [English](https://tomgrid729.github.io/everyday-conversations-audio/?lang=en) or [日本語](https://tomgrid729.github.io/everyday-conversations-audio/?lang=ja). The language selector at the top changes controls, messages and help without interrupting playback. The player remembers your choice. On a first visit, Japanese browsers use Japanese; other browsers use English.
 The player streams same-origin MP3 files from GitHub Pages, with the correct audio MIME type and byte-range responses. GitHub Releases remains the source for full-lesson downloads and ZIP archives.
 
 - **This scene:** plays a separate scene file from its beginning to its end. For lessons with one scene, this uses the full-lesson file.
